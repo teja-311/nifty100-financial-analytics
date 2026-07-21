@@ -1,0 +1,110 @@
+company_id,company_name,broad_sector,market_cap_crore,pe_ratio,pb_ratio,ev_ebitda,free_cash_flow_cr,fcf_yield_pct,sector_median_pe,pe_vs_sector_pct,valuation_flag
+ABB,Abbott India Ltd,Industrials,1536236.24,75.58,4.48,12.63,1095.0,0.07,47.155,160.28,Caution
+ADANIENSOL,Adani Energy Solutions Ltd,Energy,348517.36,58.5,9.05,14.83,1095.0,0.31,44.915,130.25,Fair
+ADANIENT,Adani Enterprises Ltd,Industrials,187927.97,58.87,10.41,33.01,-8455.0,-4.5,47.155,124.84,Fair
+ADANIGREEN,Adani Green Energy Ltd,Energy,510512.78,45.26,6.24,21.78,-13347.0,-2.61,44.915,100.77,Fair
+ADANIPORTS,"Adani Ports & Special Economic Zone Ltd
+",Industrials,675598.01,48.9,2.31,31.76,8250.0,1.22,47.155,103.7,Fair
+ADANIPOWER,Adani Power Ltd,Energy,1372183.55,44.57,9.91,24.76,17651.0,1.29,44.915,99.23,Fair
+AMBUJACEM,Ambuja Cements Ltd,Materials,1281411.04,55.62,9.21,27.67,-3295.0,-0.26,55.62,100.0,Fair
+APOLLOHOSP,"Apollo Hospitals
+Chain of Indian private hospitals",Healthcare,1905622.43,47.72,7.68,16.74,383.0,0.02,47.06,101.4,Fair
+ASIANPAINT,"Asian Paints
+Indian Multi-National Paint and Coating Manufacturing Company",Materials,2126725.18,73.37,3.9,23.94,3556.0,0.17,55.62,131.91,Fair
+ATGL,Adani Total Gas Ltd,Energy,1535602.41,56.96,5.76,28.93,,,44.915,126.82,Fair
+AXISBANK,Axis Bank Ltd,Financials,948868.63,38.14,4.66,16.87,-14556.0,-1.53,34.24,111.39,Fair
+BAJAJ-AUTO,Bajaj Auto Ltd,Consumer Discretionary,653817.3,29.91,9.83,20.14,6486.0,0.99,38.005,78.7,Fair
+BAJAJFINSV,Bajaj Finserv Ltd,Financials,1905112.17,15.07,6.08,39.72,-79634.0,-4.18,34.24,44.01,Discount
+BAJAJHLDNG,Bajaj Holdings & Investment Ltd,Financials,2191568.13,37.73,9.38,27.47,1469.0,0.07,34.24,110.19,Fair
+BAJFINANCE,Bajaj Finance Ltd,Financials,2473271.58,69.2,4.11,15.96,-79931.0,-3.23,34.24,202.1,Caution
+BANKBARODA,Bank of Baroda,Financials,590971.02,16.89,4.15,24.7,-7559.0,-1.28,34.24,49.33,Discount
+BEL,Bharat Electronics Ltd,Industrials,1354781.06,17.89,9.22,23.14,-1265.0,-0.09,47.155,37.94,Discount
+BHARTIARTL,Bharti Airtel Ltd,Communication Services,378605.83,63.78,6.28,39.71,27809.0,7.35,48.33,131.97,Fair
+BHEL,"Bharat Heavy Electricals Limited
+",Industrials,540053.85,29.8,11.43,21.59,-2382.0,-0.44,47.155,63.2,Discount
+BOSCHLTD,Bosch Ltd,Consumer Discretionary,2599556.05,58.43,6.47,16.07,1536.0,0.06,38.005,153.74,Caution
+BPCL,Bharat Petroleum Corporation Ltd,Energy,468662.13,68.15,0.72,26.59,25415.0,5.42,44.915,151.73,Caution
+BRITANNIA,Britannia Industries Ltd,Consumer Staples,324745.74,63.91,4.26,33.95,3050.0,0.94,50.95,125.44,Fair
+CANBK,Canara Bank,Financials,496415.88,36.74,12.61,25.23,13296.0,2.68,34.24,107.3,Fair
+CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,Financials,971931.96,16.79,10.36,13.52,-38538.0,-3.97,34.24,49.04,Discount
+CIPLA,"Cipla Ltd
+",Healthcare,439803.15,59.75,5.93,33.7,1152.0,0.26,47.06,126.97,Fair
+COALINDIA,Coal India Ltd,Materials,454024.84,34.27,14.75,25.15,13617.0,3.0,55.62,61.61,Discount
+DABUR,Dabur India Ltd,Consumer Staples,56521.84,50.95,13.59,12.02,1042.0,1.84,50.95,100.0,Fair
+DIVISLAB,Divis Laboratories Ltd,Healthcare,1615028.67,69.95,12.34,31.81,992.0,0.06,47.06,148.64,Fair
+DLF,DLF Ltd,Real Estate,1381712.03,46.26,14.32,10.41,1010.0,0.07,49.105000000000004,94.21,Fair
+DMART,Avenue Supermarts Ltd,Consumer Discretionary,3053088.97,72.53,11.71,36.84,278.0,0.01,38.005,190.84,Caution
+DRREDDY,Dr Reddys Laboratories Ltd,Healthcare,2441803.28,11.73,10.19,14.56,509.0,0.02,47.06,24.93,Discount
+EICHERMOT,Eicher Motors Ltd,Consumer Discretionary,222391.83,15.62,13.61,19.29,890.0,0.4,38.005,41.1,Discount
+GAIL,GAIL (India) Ltd,Energy,1531867.57,25.84,9.54,33.07,4360.0,0.28,44.915,57.53,Discount
+GODREJCP,Godrej Consumer Products Ltd,Consumer Staples,1327797.2,33.59,8.07,23.55,-1365.0,-0.1,50.95,65.93,Discount
+GRASIM,Grasim Industries Ltd,Industrials,478951.82,79.35,5.68,15.23,-33833.0,-7.06,47.155,168.27,Caution
+HAL,Hindustan Aeronautics Ltd,Industrials,2643616.86,71.89,3.65,8.76,1814.0,0.07,47.155,152.45,Caution
+HAVELLS,Havells India Ltd,Industrials,2521508.87,45.41,14.08,30.73,335.0,0.01,47.155,96.3,Fair
+HCLTECH,HCL Technologies Ltd,Information Technology,412593.29,63.63,5.44,31.21,15840.0,3.84,63.63,100.0,Fair
+HDFCBANK,HDFC Bank Ltd,Financials,808359.03,49.42,4.4,22.54,35669.0,4.41,34.24,144.33,Fair
+HDFCLIFE,HDFC Life Insurance Company Ltd,Financials,47027.6,50.59,11.28,31.63,-2893.0,-6.15,34.24,147.75,Fair
+HEROMOTOCO,"Hero MotoCorp Ltd
+",Consumer Discretionary,1593400.88,53.86,12.6,28.27,3095.0,0.19,38.005,141.72,Fair
+HINDALCO,Hindalco Industries Ltd,Materials,722281.1,56.45,9.32,27.63,9789.0,1.36,55.62,101.49,Fair
+HINDUNILVR,"Hindustan Unilever Ltd
+",Consumer Staples,548890.59,34.51,11.88,7.52,10145.0,1.85,50.95,67.73,Discount
+ICICIBANK,ICICI Bank Ltd,Financials,1319221.86,25.76,6.2,38.28,12547.0,0.95,34.24,75.23,Fair
+ICICIGI,ICICI Lombard General Insurance Company Ltd,Financials,1271789.21,49.0,7.86,36.96,486.0,0.04,34.24,143.11,Fair
+ICICIPRULI,ICICI Prudential Life Insurance Company Ltd,Financials,1596987.55,20.83,12.38,22.57,105.0,0.01,34.24,60.84,Discount
+INDIGO,Interglobe Aviation Ltd,Consumer Discretionary,1040632.92,76.23,7.87,24.64,9424.0,0.91,38.005,200.58,Caution
+INDUSINDBK,IndusInd Bank Ltd,Financials,1807433.12,8.99,3.7,28.79,-17468.0,-0.97,34.24,26.26,Discount
+INFY,Infosys Ltd,Information Technology,1112279.92,35.99,8.97,36.7,20117.0,1.81,63.63,56.56,Discount
+IOC,"Indian Oil Corporation
+",Energy,1418164.33,28.61,4.24,33.71,39635.0,2.79,44.915,63.7,Discount
+IRCTC,Indian Railway Catering & Tourism Corporation Ltd,Consumer Discretionary,1258520.29,60.44,5.74,32.47,667.0,0.05,38.005,159.03,Caution
+IRFC,Indian Railway Finance Corporation Ltd,Financials,2618348.58,9.81,3.91,16.66,7906.0,0.3,34.24,28.65,Discount
+ITC,"ITC Ltd
+",Consumer Staples,332245.58,47.85,3.24,17.19,18742.0,5.64,50.95,93.92,Fair
+JINDALSTEL,Jindal Steel & Power Ltd,Materials,396587.97,77.64,5.73,20.22,-2336.0,-0.59,55.62,139.59,Fair
+JIOFIN,Jio Financial Services Ltd,Financials,1401774.99,34.24,9.91,26.41,763.0,0.05,34.24,100.0,Fair
+JSWENERGY,JSW Energy Ltd,Energy,110870.53,24.79,9.88,35.95,-1963.0,-1.77,44.915,55.19,Discount
+JSWSTEEL,JSW Steel Ltd,Materials,2612646.38,69.27,4.37,35.49,-2389.0,-0.09,55.62,124.54,Fair
+KOTAKBANK,"Kotak Mahindra Bank Ltd
+",Financials,430223.52,32.9,1.15,15.52,6766.0,1.57,34.24,96.09,Fair
+LICI,Life Insurance Corporation of India,Financials,183583.67,30.67,8.1,12.21,853.0,0.46,34.24,89.57,Fair
+LODHA,Macrotech Developers Ltd,Real Estate,1209919.99,51.95,7.65,34.33,-435.0,-0.04,49.105000000000004,105.79,Fair
+LT,Larsen & Toubro Ltd,Industrials,1124597.5,30.8,2.48,16.63,20445.0,1.82,47.155,65.32,Discount
+LTIM,LTIMindtree Ltd,Information Technology,1347046.9,64.52,2.38,18.9,1752.0,0.13,63.63,101.4,Fair
+M&M,"Mahindra & Mahindra Ltd
+",Consumer Discretionary,4173085.48,14.22,0.81,29.08,-11245.0,-0.27,38.005,37.42,Discount
+MARUTI,Maruti Suzuki India Ltd,Consumer Discretionary,1503863.63,20.78,8.26,29.97,4936.0,0.33,38.005,54.68,Discount
+MOTHERSON,Samvardhana Motherson International Ltd,Consumer Discretionary,146151.16,9.54,2.38,33.39,925.0,0.63,38.005,25.1,Discount
+NAUKRI,Info Edge (India) Ltd,Communication Services,563824.44,32.88,8.33,11.87,-150.0,-0.03,48.33,68.03,Discount
+NESTLEIND,Nestle India Ltd,Consumer Staples,1677775.19,54.96,14.34,15.49,2938.0,0.18,50.95,107.87,Fair
+NHPC,"NHPC Ltd
+",Energy,1740404.25,71.17,13.74,18.26,970.0,0.06,44.915,158.45,Caution
+NTPC,NTPC Ltd,Energy,907823.11,30.8,5.24,37.12,8644.0,0.95,44.915,68.57,Discount
+ONGC,Oil & Natural Gas Corpn Ltd,Energy,390111.05,18.15,10.36,11.72,42060.0,10.78,44.915,40.41,Discount
+PFC,Power Finance Corporation Ltd,Financials,2011885.81,35.6,6.59,15.67,-101229.0,-5.03,34.24,103.97,Fair
+PIDILITIND,Pidilite Industries Ltd,Materials,162274.18,36.12,12.3,5.36,955.0,0.59,55.62,64.94,Discount
+PNB,Punjab National Bank,Financials,1825925.6,19.29,10.91,23.64,-29445.0,-1.61,34.24,56.34,Discount
+POWERGRID,Power Grid Corporation of India Ltd,Energy,372584.24,64.39,5.1,23.07,24176.0,6.49,44.915,143.36,Fair
+RECLTD,REC Ltd,Financials,291917.42,31.49,4.59,23.95,-59554.0,-20.4,34.24,91.97,Fair
+RELIANCE,"Reliance Industries Ltd
+",Energy,432472.71,58.34,3.25,24.96,45207.0,10.45,44.915,129.89,Fair
+SBILIFE,SBI Life Insurance Company Ltd,Financials,886097.71,69.98,9.48,31.04,-2099.0,-0.24,34.24,204.38,Caution
+SBIN,State Bank of India,Financials,2400436.05,54.93,2.72,21.53,,,34.24,160.43,Caution
+SHREECEM,Shree Cement Ltd,Materials,3154358.33,25.87,1.21,26.58,1929.0,0.06,55.62,46.51,Discount
+SHRIRAMFIN,"Shriram Finance Ltd
+",Financials,868933.47,68.53,7.91,28.82,-31359.0,-3.61,34.24,200.15,Caution
+SIEMENS,Siemens Ltd,Industrials,1191331.95,33.32,9.25,30.88,1168.0,0.1,47.155,70.66,Fair
+SUNPHARMA,Sun Pharmaceuticals Industries Ltd,Healthcare,1339586.09,37.9,6.71,21.41,11372.0,0.85,47.06,80.54,Fair
+TATACONSUM,Tata Consumer Products Ltd,Consumer Staples,350543.35,54.79,7.14,24.84,26.0,0.01,50.95,107.54,Fair
+TATAMOTORS,Tata Motors Ltd,Consumer Discretionary,1504106.64,67.07,0.93,15.35,45133.0,3.0,38.005,176.48,Caution
+TATAPOWER,"Tata Power Company Ltd
+",Energy,1647269.48,14.5,3.48,12.02,3569.0,0.22,44.915,32.28,Discount
+TATASTEEL,"Tata Steel Ltd
+",Materials,369110.65,48.97,9.23,38.87,6048.0,1.64,55.62,88.04,Fair
+TCS,Tata Consultancy Services Ltd,Information Technology,461188.15,78.69,6.08,29.94,50429.0,10.93,63.63,123.67,Fair
+TECHM,Tech Mahindra Ltd,Information Technology,3021095.64,57.4,7.43,7.85,5058.0,0.17,63.63,90.21,Fair
+TITAN,"Titan Company Ltd
+",Consumer Discretionary,1793769.72,10.13,10.51,21.0,1506.0,0.08,38.005,26.65,Discount
+TORNTPHARM,Torrent Pharmaceuticals Ltd,Healthcare,1870170.39,46.4,6.43,27.93,3106.0,0.17,47.06,98.6,Fair
+TRENT,Trent Ltd,Consumer Discretionary,571322.04,8.65,11.82,34.65,841.0,0.15,38.005,22.76,Discount
+TVSMOTOR,TVS Motor Company Ltd,Consumer Discretionary,266591.41,46.1,5.62,7.1,-2254.0,-0.85,38.005,121.3,Fair

@@ -1,0 +1,1200 @@
+company_id,year,free_cash_flow,cfo_quality,capex_intensity,fcf_conversion_rate,capital_pattern
+TCS,Mar-13,5577.0,Accrual Risk,Capital Intensive,,Reinvestor
+TCS,Mar-14,5299.0,Accrual Risk,Capital Intensive,,Reinvestor
+TCS,Mar-15,17562.0,Accrual Risk,Capital Intensive,,Reinvestor
+TCS,Mar-16,14099.0,Accrual Risk,Capital Intensive,,Reinvestor
+TCS,Mar-17,8328.0,Accrual Risk,Capital Intensive,,Reinvestor
+TCS,Mar-18,28171.0,Accrual Risk,Capital Intensive,,Liquidating Assets
+TCS,Mar-19,30238.0,Accrual Risk,Capital Intensive,,Liquidating Assets
+TCS,Mar-20,41337.0,Accrual Risk,Capital Intensive,,Liquidating Assets
+TCS,Mar-21,30846.0,Accrual Risk,Capital Intensive,,Reinvestor
+TCS,Mar-22,39211.0,Accrual Risk,Capital Intensive,,Reinvestor
+TCS,Mar-23,42513.0,Accrual Risk,Capital Intensive,,Liquidating Assets
+TCS,Mar-24,50429.0,Accrual Risk,Capital Intensive,,Liquidating Assets
+ABB,Dec 2012,42.0,Moderate,Moderate,20.79,Reinvestor
+ABB,Mar 2014,11.0,Moderate,Moderate,4.12,Reinvestor
+ABB,Mar 2015,28.0,Moderate,Capital Intensive,8.97,Reinvestor
+ABB,Mar 2016,172.0,Moderate,Asset Light,47.12,Reinvestor
+ABB,Mar 2017,152.0,High Quality,Moderate,38.19,Shareholder Returns
+ABB,Mar 2018,-62.0,Accrual Risk,Moderate,-11.81,Reinvestor
+ABB,Mar 2019,242.0,High Quality,Moderate,40.0,Shareholder Returns
+ABB,Mar 2020,225.0,High Quality,Capital Intensive,29.72,Shareholder Returns
+ABB,Mar 2021,655.0,High Quality,Asset Light,71.04,Shareholder Returns
+ABB,Mar 2022,552.0,High Quality,Capital Intensive,51.02,Shareholder Returns
+ABB,Mar 2023,745.0,Moderate,Asset Light,61.77,Reinvestor
+ABB,Mar 2024,797.0,High Quality,Moderate,54.85,Shareholder Returns
+ABB,Mar 2014,0.0,Accrual Risk,Asset Light,0.0,Cash Accumulator
+ABB,Mar 2015,-1899.0,Accrual Risk,Capital Intensive,-608.65,Growth Funded by Debt
+ABB,Mar 2016,728.0,High Quality,Capital Intensive,199.45,Shareholder Returns
+ABB,Mar 2017,459.0,High Quality,Capital Intensive,115.33,Shareholder Returns
+ABB,Mar 2018,-994.0,High Quality,Capital Intensive,-189.33,Mixed
+ABB,Mar 2019,-459.0,High Quality,Capital Intensive,-75.87,Mixed
+ABB,Mar 2020,-206.0,High Quality,Capital Intensive,-27.21,Mixed
+ABB,Mar 2021,-225.0,High Quality,Capital Intensive,-24.4,Shareholder Returns
+ABB,Mar 2022,161.0,High Quality,Capital Intensive,14.88,Shareholder Returns
+ABB,Mar 2023,-922.0,High Quality,Capital Intensive,-76.45,Mixed
+ABB,Mar 2024,1095.0,High Quality,Capital Intensive,75.36,Shareholder Returns
+ADANIENSOL,Mar 2014,0.0,,,,Cash Accumulator
+ADANIENSOL,Mar 2015,-1899.0,High Quality,Capital Intensive,-1880.2,Growth Funded by Debt
+ADANIENSOL,Mar 2016,728.0,High Quality,Capital Intensive,37.78,Shareholder Returns
+ADANIENSOL,Mar 2017,459.0,High Quality,Capital Intensive,23.15,Shareholder Returns
+ADANIENSOL,Mar 2018,-994.0,High Quality,Capital Intensive,-35.17,Mixed
+ADANIENSOL,Mar 2019,-459.0,High Quality,Capital Intensive,-16.52,Mixed
+ADANIENSOL,Mar 2020,-206.0,High Quality,Capital Intensive,-4.84,Mixed
+ADANIENSOL,Mar 2021,-225.0,High Quality,Capital Intensive,-5.7,Shareholder Returns
+ADANIENSOL,Mar 2022,161.0,High Quality,Capital Intensive,3.83,Shareholder Returns
+ADANIENSOL,Mar 2023,-922.0,High Quality,Capital Intensive,-20.41,Mixed
+ADANIENSOL,Mar 2024,1095.0,High Quality,Capital Intensive,19.17,Shareholder Returns
+ADANIENT,Mar 2013,-7124.0,High Quality,Capital Intensive,-118.32,Mixed
+ADANIENT,Mar 2014,221.0,High Quality,Capital Intensive,2.36,Shareholder Returns
+ADANIENT,Mar 2015,-2933.0,High Quality,Capital Intensive,-23.56,Mixed
+ADANIENT,Mar 2016,3287.0,High Quality,Moderate,195.19,Shareholder Returns
+ADANIENT,Mar 2017,-686.0,Moderate,Moderate,-36.07,Mixed
+ADANIENT,Mar 2018,-4707.0,High Quality,Capital Intensive,-230.96,Mixed
+ADANIENT,Mar 2019,5723.0,High Quality,Moderate,290.66,Liquidating Assets
+ADANIENT,Mar 2020,1372.0,High Quality,Asset Light,59.81,Shareholder Returns
+ADANIENT,Mar 2021,-4568.0,High Quality,Capital Intensive,-182.28,Mixed
+ADANIENT,Mar 2022,-15656.0,High Quality,Capital Intensive,-421.54,Mixed
+ADANIENT,Mar 2023,2167.0,High Quality,Capital Intensive,24.57,Shareholder Returns
+ADANIENT,Mar 2024,-8455.0,High Quality,Capital Intensive,-74.32,Mixed
+ADANIGREEN,Mar 2017,-1483.0,Accrual Risk,Capital Intensive,-367.99,Mixed
+ADANIGREEN,Mar 2018,-3779.0,Accrual Risk,Capital Intensive,-448.28,Mixed
+ADANIGREEN,Mar 2019,-1041.0,Accrual Risk,Capital Intensive,-68.22,Mixed
+ADANIGREEN,Mar 2020,-1778.0,Accrual Risk,Capital Intensive,-122.62,Mixed
+ADANIGREEN,Mar 2021,-7536.0,High Quality,Capital Intensive,-336.28,Mixed
+ADANIGREEN,Mar 2022,-15603.0,High Quality,Capital Intensive,-444.28,Mixed
+ADANIGREEN,Mar 2023,3408.0,High Quality,Capital Intensive,68.57,Shareholder Returns
+ADANIGREEN,Mar 2024,-13347.0,High Quality,Capital Intensive,-182.39,Mixed
+ADANIPORTS,Mar 2013,-3757.0,Moderate,Capital Intensive,-157.72,Mixed
+ADANIPORTS,Mar 2013,-3757.0,Moderate,Capital Intensive,-157.72,Mixed
+ADANIPORTS,Mar 2014,-1378.0,Moderate,Capital Intensive,-47.21,Mixed
+ADANIPORTS,Mar 2014,-1378.0,Moderate,Capital Intensive,-47.21,Mixed
+ADANIPORTS,Mar 2015,572.0,High Quality,Capital Intensive,14.66,Shareholder Returns
+ADANIPORTS,Mar 2015,572.0,High Quality,Capital Intensive,14.66,Shareholder Returns
+ADANIPORTS,Mar 2016,-1772.0,Moderate,Capital Intensive,-38.72,Mixed
+ADANIPORTS,Mar 2016,-1772.0,Moderate,Capital Intensive,-38.72,Mixed
+ADANIPORTS,Mar 2017,1434.0,High Quality,Capital Intensive,26.47,Shareholder Returns
+ADANIPORTS,Mar 2017,1434.0,High Quality,Capital Intensive,26.47,Shareholder Returns
+ADANIPORTS,Mar 2018,1762.0,High Quality,Capital Intensive,24.62,Shareholder Returns
+ADANIPORTS,Mar 2018,1762.0,High Quality,Capital Intensive,24.62,Shareholder Returns
+ADANIPORTS,Mar 2019,1661.0,High Quality,Capital Intensive,25.18,Mixed
+ADANIPORTS,Mar 2019,1661.0,High Quality,Capital Intensive,25.18,Mixed
+ADANIPORTS,Mar 2020,6653.0,High Quality,Moderate,111.87,Shareholder Returns
+ADANIPORTS,Mar 2020,6653.0,High Quality,Moderate,111.87,Shareholder Returns
+ADANIPORTS,Mar 2021,-6508.0,High Quality,Capital Intensive,-74.91,Mixed
+ADANIPORTS,Mar 2021,-6508.0,High Quality,Capital Intensive,-74.91,Mixed
+ADANIPORTS,Mar 2022,4927.0,High Quality,Capital Intensive,51.71,Shareholder Returns
+ADANIPORTS,Mar 2022,4927.0,High Quality,Capital Intensive,51.71,Shareholder Returns
+ADANIPORTS,Mar 2023,-4816.0,High Quality,Capital Intensive,-43.99,Shareholder Returns
+ADANIPORTS,Mar 2023,-4816.0,High Quality,Capital Intensive,-43.99,Shareholder Returns
+ADANIPORTS,Mar 2024,8250.0,High Quality,Capital Intensive,52.92,Shareholder Returns
+ADANIPORTS,Mar 2024,8250.0,High Quality,Capital Intensive,52.92,Shareholder Returns
+ADANIPOWER,Mar 2013,-1063.0,Accrual Risk,Capital Intensive,-110.73,Mixed
+ADANIPOWER,Mar 2014,-1462.0,Accrual Risk,Capital Intensive,-31.83,Mixed
+ADANIPOWER,Mar 2015,1087.0,Accrual Risk,Capital Intensive,23.24,Reinvestor
+ADANIPOWER,Mar 2016,2565.0,High Quality,Capital Intensive,29.14,Shareholder Returns
+ADANIPOWER,Mar 2017,3513.0,Accrual Risk,Moderate,58.75,Reinvestor
+ADANIPOWER,Mar 2018,4581.0,Accrual Risk,Asset Light,84.27,Reinvestor
+ADANIPOWER,Mar 2019,4626.0,Accrual Risk,Moderate,92.84,Reinvestor
+ADANIPOWER,Mar 2020,3294.0,Accrual Risk,Capital Intensive,57.45,Reinvestor
+ADANIPOWER,Mar 2021,4826.0,High Quality,Capital Intensive,55.55,Shareholder Returns
+ADANIPOWER,Mar 2022,11007.0,High Quality,Asset Light,111.4,Liquidating Assets
+ADANIPOWER,Mar 2023,9976.0,Moderate,Moderate,98.81,Liquidating Assets
+ADANIPOWER,Mar 2024,17651.0,Moderate,Moderate,96.83,Liquidating Assets
+AMBUJACEM,Dec 2012,1472.0,High Quality,Moderate,59.52,Shareholder Returns
+AMBUJACEM,Dec 2013,771.0,Moderate,Moderate,46.2,Reinvestor
+AMBUJACEM,Dec 2014,1219.0,High Quality,Moderate,63.03,Shareholder Returns
+AMBUJACEM,Dec 2015,1474.0,High Quality,Asset Light,95.59,Shareholder Returns
+AMBUJACEM,Dec 2016,-1355.0,High Quality,Capital Intensive,-42.6,Shareholder Returns
+AMBUJACEM,Dec 2017,2678.0,High Quality,Moderate,69.41,Shareholder Returns
+AMBUJACEM,Dec 2018,938.0,Moderate,Asset Light,23.39,Reinvestor
+AMBUJACEM,Dec 2019,3548.0,High Quality,Moderate,77.18,Shareholder Returns
+AMBUJACEM,Dec 2020,3515.0,High Quality,Moderate,70.22,Shareholder Returns
+AMBUJACEM,Dec 2021,3302.0,High Quality,Moderate,53.17,Shareholder Returns
+AMBUJACEM,Mar 2023,-13746.0,Accrual Risk,Capital Intensive,,Mixed
+AMBUJACEM,Mar 2024,-3295.0,High Quality,Capital Intensive,-51.48,Mixed
+APOLLOHOSP,Mar 2013,-290.0,High Quality,Capital Intensive,-47.39,Mixed
+APOLLOHOSP,Mar 2014,17.0,High Quality,Capital Intensive,2.51,Shareholder Returns
+APOLLOHOSP,Mar 2015,-289.0,High Quality,Capital Intensive,-39.21,Mixed
+APOLLOHOSP,Mar 2016,-291.0,High Quality,Capital Intensive,-42.54,Mixed
+APOLLOHOSP,Mar 2017,-529.0,High Quality,Capital Intensive,-72.07,Mixed
+APOLLOHOSP,Mar 2018,132.0,High Quality,Moderate,16.48,Shareholder Returns
+APOLLOHOSP,Mar 2019,194.0,High Quality,Moderate,18.13,Shareholder Returns
+APOLLOHOSP,Mar 2020,1004.0,High Quality,Asset Light,63.1,Shareholder Returns
+APOLLOHOSP,Mar 2021,385.0,High Quality,Capital Intensive,33.77,Shareholder Returns
+APOLLOHOSP,Mar 2022,949.0,High Quality,Moderate,43.35,Shareholder Returns
+APOLLOHOSP,Mar 2023,520.0,High Quality,Moderate,25.18,Shareholder Returns
+APOLLOHOSP,Mar 2024,383.0,High Quality,Capital Intensive,16.0,Shareholder Returns
+ASIANPAINT,Mar 2013,724.0,High Quality,Moderate,41.68,Shareholder Returns
+ASIANPAINT,Mar 2014,816.0,High Quality,Moderate,40.72,Shareholder Returns
+ASIANPAINT,Mar 2015,723.0,Moderate,Moderate,32.23,Reinvestor
+ASIANPAINT,Mar 2016,1377.0,High Quality,Moderate,50.53,Shareholder Returns
+ASIANPAINT,Mar 2017,846.0,Moderate,Moderate,28.26,Reinvestor
+ASIANPAINT,Mar 2018,557.0,High Quality,Capital Intensive,17.38,Shareholder Returns
+ASIANPAINT,Mar 2019,1552.0,High Quality,Moderate,41.22,Shareholder Returns
+ASIANPAINT,Mar 2020,2520.0,High Quality,Asset Light,60.62,Shareholder Returns
+ASIANPAINT,Mar 2021,3142.0,High Quality,Asset Light,64.7,Shareholder Returns
+ASIANPAINT,Mar 2022,669.0,Accrual Risk,Asset Light,13.93,Reinvestor
+ASIANPAINT,Mar 2023,2911.0,Moderate,Moderate,46.5,Reinvestor
+ASIANPAINT,Mar 2024,3556.0,High Quality,Moderate,46.88,Shareholder Returns
+AGTL,Mar 2018,-711.0,Accrual Risk,Capital Intensive,,Mixed
+AGTL,Mar 2019,1147.0,Accrual Risk,Capital Intensive,,Liquidating Assets
+AGTL,Mar 2020,31.0,Accrual Risk,Capital Intensive,,Reinvestor
+AGTL,Mar 2021,-116.0,Accrual Risk,Capital Intensive,,Mixed
+AGTL,Mar 2022,-401.0,Accrual Risk,Capital Intensive,,Mixed
+AGTL,Mar 2023,-314.0,Accrual Risk,Capital Intensive,,Mixed
+AGTL,Mar 2024,203.0,Accrual Risk,Capital Intensive,,Reinvestor
+AXISBANK,Mar 2013,-8366.0,Accrual Risk,Capital Intensive,-100.64,Mixed
+AXISBANK,Mar 2014,298.0,High Quality,Capital Intensive,3.09,Mixed
+AXISBANK,Mar 2015,-23134.0,Accrual Risk,Capital Intensive,-207.91,Growth Funded by Debt
+AXISBANK,Mar 2016,-25284.0,Accrual Risk,Capital Intensive,-189.15,Distress Signal
+AXISBANK,Mar 2017,19751.0,High Quality,Capital Intensive,82.96,Shareholder Returns
+AXISBANK,Mar 2018,-48397.0,Accrual Risk,Capital Intensive,-167.49,Growth Funded by Debt
+AXISBANK,Mar 2019,18451.0,High Quality,Capital Intensive,67.95,Mixed
+AXISBANK,Mar 2020,20931.0,High Quality,Capital Intensive,59.69,Mixed
+AXISBANK,Mar 2021,-41655.0,High Quality,Capital Intensive,-131.2,Mixed
+AXISBANK,Mar 2022,1025.0,High Quality,Capital Intensive,3.42,Mixed
+AXISBANK,Mar 2023,-10276.0,High Quality,Capital Intensive,-35.33,Mixed
+AXISBANK,Mar 2024,-14556.0,Accrual Risk,Capital Intensive,-38.36,Growth Funded by Debt
+BAJAJ-AUTO,Mar 2013,824.0,Moderate,Moderate,22.54,Reinvestor
+BAJAJ-AUTO,Mar 2014,1430.0,High Quality,Capital Intensive,34.35,Shareholder Returns
+BAJAJ-AUTO,Mar 2015,1734.0,Moderate,Asset Light,42.01,Reinvestor
+BAJAJ-AUTO,Mar 2016,3622.0,Moderate,Asset Light,75.57,Reinvestor
+BAJAJ-AUTO,Mar 2017,-343.0,Moderate,Capital Intensive,-7.74,Reinvestor
+BAJAJ-AUTO,Mar 2018,2374.0,High Quality,Moderate,48.99,Shareholder Returns
+BAJAJ-AUTO,Mar 2019,2214.0,Moderate,Asset Light,42.59,Reinvestor
+BAJAJ-AUTO,Mar 2020,5616.0,Moderate,Moderate,109.92,Liquidating Assets
+BAJAJ-AUTO,Mar 2021,251.0,Moderate,Capital Intensive,5.08,Reinvestor
+BAJAJ-AUTO,Mar 2022,4473.0,Moderate,Asset Light,85.05,Liquidating Assets
+BAJAJ-AUTO,Mar 2023,6488.0,Moderate,Moderate,100.36,Liquidating Assets
+BAJAJ-AUTO,Mar 2024,6486.0,Moderate,Asset Light,74.0,Reinvestor
+BAJAJ-AUTO,Mar 2013,824.0,Moderate,Moderate,22.54,Reinvestor
+BAJAJ-AUTO,Mar 2014,1430.0,High Quality,Capital Intensive,34.35,Shareholder Returns
+BAJAJ-AUTO,Mar 2015,1734.0,Moderate,Asset Light,42.01,Reinvestor
+BAJAJ-AUTO,Mar 2016,3622.0,Moderate,Asset Light,75.57,Reinvestor
+BAJAJ-AUTO,Mar 2017,-343.0,Moderate,Capital Intensive,-7.74,Reinvestor
+BAJAJ-AUTO,Mar 2018,2374.0,High Quality,Moderate,48.99,Shareholder Returns
+BAJAJ-AUTO,Mar 2019,2214.0,Moderate,Asset Light,42.59,Reinvestor
+BAJAJ-AUTO,Mar 2020,5616.0,Moderate,Moderate,109.92,Liquidating Assets
+BAJAJ-AUTO,Mar 2021,251.0,Moderate,Capital Intensive,5.08,Reinvestor
+BAJAJ-AUTO,Mar 2022,4473.0,Moderate,Asset Light,85.05,Liquidating Assets
+BAJAJ-AUTO,Mar 2023,6488.0,Moderate,Moderate,100.36,Liquidating Assets
+BAJAJ-AUTO,Mar 2024,6486.0,Moderate,Asset Light,74.0,Reinvestor
+BAJAJFINSV,Mar 2013,-3969.0,Accrual Risk,Capital Intensive,-100.97,Distress Signal
+BAJAJFINSV,Mar 2014,-6043.0,Accrual Risk,Capital Intensive,-134.56,Distress Signal
+BAJAJFINSV,Mar 2015,-7022.0,Accrual Risk,Capital Intensive,-127.42,Distress Signal
+BAJAJFINSV,Mar 2016,-10681.0,Accrual Risk,Moderate,-158.5,Growth Funded by Debt
+BAJAJFINSV,Mar 2017,-10771.0,Accrual Risk,Asset Light,-123.62,Distress Signal
+BAJAJFINSV,Mar 2018,-20502.0,Accrual Risk,Asset Light,-190.04,Growth Funded by Debt
+BAJAJFINSV,Mar 2019,-33979.0,Accrual Risk,Capital Intensive,-225.97,Growth Funded by Debt
+BAJAJFINSV,Mar 2020,-33317.0,Accrual Risk,Capital Intensive,-182.48,Growth Funded by Debt
+BAJAJFINSV,Mar 2021,863.0,Moderate,Moderate,4.39,Mixed
+BAJAJFINSV,Mar 2022,-32225.0,Accrual Risk,Asset Light,-150.2,Distress Signal
+BAJAJFINSV,Mar 2023,-53425.0,Accrual Risk,Capital Intensive,-178.87,Growth Funded by Debt
+BAJAJFINSV,Mar 2024,-79634.0,Accrual Risk,Capital Intensive,-194.77,Growth Funded by Debt
+BAJAJHLDNG,Mar 2013,104.0,Accrual Risk,Capital Intensive,32.3,Reinvestor
+BAJAJHLDNG,Mar 2014,353.0,Accrual Risk,Capital Intensive,88.25,Reinvestor
+BAJAJHLDNG,Mar 2015,332.0,Accrual Risk,Capital Intensive,68.6,Reinvestor
+BAJAJHLDNG,Mar 2016,2166.0,Moderate,Capital Intensive,504.9,Liquidating Assets
+BAJAJHLDNG,Mar 2017,-1295.0,Accrual Risk,Capital Intensive,-206.21,Pre-Revenue
+BAJAJHLDNG,Mar 2018,508.0,Moderate,Capital Intensive,143.1,Reinvestor
+BAJAJHLDNG,Mar 2019,465.0,Accrual Risk,Capital Intensive,134.01,Reinvestor
+BAJAJHLDNG,Mar 2020,1120.0,Moderate,Capital Intensive,372.09,Reinvestor
+BAJAJHLDNG,Mar 2021,-36.0,Accrual Risk,Capital Intensive,-10.23,Reinvestor
+BAJAJHLDNG,Mar 2022,1459.0,Accrual Risk,Capital Intensive,397.55,Reinvestor
+BAJAJHLDNG,Mar 2023,1591.0,Accrual Risk,Capital Intensive,418.68,Reinvestor
+BAJAJHLDNG,Mar 2024,1469.0,Accrual Risk,Capital Intensive,94.05,Reinvestor
+BAJFINANCE,Mar 2015,-7424.0,Accrual Risk,Moderate,-423.74,Growth Funded by Debt
+BAJFINANCE,Mar 2016,-10557.0,Accrual Risk,Capital Intensive,-448.47,Growth Funded by Debt
+BAJFINANCE,Mar 2017,-13486.0,Accrual Risk,Capital Intensive,-414.95,Growth Funded by Debt
+BAJFINANCE,Mar 2018,-19491.0,Accrual Risk,Capital Intensive,-473.66,Distress Signal
+BAJFINANCE,Mar 2019,-34441.0,Accrual Risk,Capital Intensive,-631.48,Growth Funded by Debt
+BAJFINANCE,Mar 2020,-33170.0,Accrual Risk,Capital Intensive,-362.16,Growth Funded by Debt
+BAJFINANCE,Mar 2021,-1236.0,Accrual Risk,Asset Light,-11.4,Growth Funded by Debt
+BAJFINANCE,Mar 2022,-30743.0,Accrual Risk,Capital Intensive,-258.78,Distress Signal
+BAJFINANCE,Mar 2023,-52506.0,Accrual Risk,Capital Intensive,-413.66,Growth Funded by Debt
+BAJFINANCE,Mar 2024,-79931.0,Accrual Risk,Capital Intensive,-496.5,Growth Funded by Debt
+BANKBARODA,Mar 2013,22682.0,High Quality,Asset Light,207.14,Shareholder Returns
+BANKBARODA,Mar 2014,41503.0,High Quality,Asset Light,344.45,Mixed
+BANKBARODA,Mar 2015,17282.0,High Quality,Asset Light,128.34,Shareholder Returns
+BANKBARODA,Mar 2016,-14016.0,High Quality,Capital Intensive,-55.2,Pre-Revenue
+BANKBARODA,Mar 2017,17314.0,High Quality,Asset Light,89.94,Shareholder Returns
+BANKBARODA,Mar 2018,-60106.0,High Quality,Asset Light,-230.35,Growth Funded by Debt
+BANKBARODA,Mar 2019,-3986.0,Accrual Risk,Moderate,-15.44,Growth Funded by Debt
+BANKBARODA,Mar 2020,18392.0,High Quality,Asset Light,45.32,Mixed
+BANKBARODA,Mar 2021,-1358.0,Accrual Risk,Asset Light,-3.57,Pre-Revenue
+BANKBARODA,Mar 2022,2565.0,Moderate,Moderate,6.84,Reinvestor
+BANKBARODA,Mar 2023,-22450.0,Accrual Risk,Asset Light,-58.72,Pre-Revenue
+BANKBARODA,Mar 2024,-7559.0,Accrual Risk,Asset Light,-17.03,Growth Funded by Debt
+BEL,Mar 2013,214.0,Accrual Risk,Capital Intensive,31.99,Other
+BEL,Mar 2014,190.0,Accrual Risk,Capital Intensive,20.54,Other
+BEL,Mar 2015,595.0,High Quality,Capital Intensive,50.47,Shareholder Returns
+BEL,Mar 2016,790.0,High Quality,Capital Intensive,56.71,Shareholder Returns
+BEL,Mar 2017,3054.0,Accrual Risk,Capital Intensive,170.42,Other
+BEL,Mar 2018,-693.0,Accrual Risk,Asset Light,-33.99,Pre-Revenue
+BEL,Mar 2019,618.0,Moderate,Moderate,21.24,Reinvestor
+BEL,Mar 2020,1921.0,High Quality,Moderate,69.63,Shareholder Returns
+BEL,Mar 2021,2498.0,High Quality,Capital Intensive,77.72,Shareholder Returns
+BEL,Mar 2022,-665.0,High Quality,Capital Intensive,-19.89,Shareholder Returns
+BEL,Mar 2023,3907.0,Accrual Risk,Capital Intensive,95.53,Liquidating Assets
+BEL,Mar 2024,-1265.0,High Quality,Capital Intensive,-25.04,Shareholder Returns
+BHARTIARTL,Mar 2013,3932.0,High Quality,Capital Intensive,17.13,Shareholder Returns
+BHARTIARTL,Mar 2014,1052.0,High Quality,Capital Intensive,3.97,Mixed
+BHARTIARTL,Mar 2015,5758.0,High Quality,Capital Intensive,17.14,Shareholder Returns
+BHARTIARTL,Mar 2016,13851.0,High Quality,Capital Intensive,40.76,Shareholder Returns
+BHARTIARTL,Mar 2017,-2400.0,High Quality,Capital Intensive,-6.79,Shareholder Returns
+BHARTIARTL,Mar 2018,1914.0,High Quality,Capital Intensive,6.36,Mixed
+BHARTIARTL,Mar 2019,-8216.0,High Quality,Capital Intensive,-31.89,Mixed
+BHARTIARTL,Mar 2020,-11469.0,Accrual Risk,Capital Intensive,-31.33,Mixed
+BHARTIARTL,Mar 2021,20919.0,Accrual Risk,Capital Intensive,46.2,Reinvestor
+BHARTIARTL,Mar 2022,13539.0,High Quality,Capital Intensive,23.53,Shareholder Returns
+BHARTIARTL,Mar 2023,26093.0,High Quality,Capital Intensive,36.61,Shareholder Returns
+BHARTIARTL,Mar 2024,27809.0,High Quality,Capital Intensive,35.52,Shareholder Returns
+BHEL,Mar 2013,646.0,Accrual Risk,Asset Light,6.81,Mixed
+BHEL,Mar 2014,3644.0,High Quality,Asset Light,79.58,Mixed
+BHEL,Mar 2015,1471.0,Moderate,Asset Light,68.71,Liquidating Assets
+BHEL,Mar 2016,397.0,Accrual Risk,Asset Light,-29.26,Liquidating Assets
+BHEL,Mar 2017,-5.0,High Quality,Asset Light,-0.46,Shareholder Returns
+BHEL,Mar 2018,1950.0,High Quality,Moderate,117.97,Liquidating Assets
+BHEL,Mar 2019,-1941.0,Accrual Risk,Moderate,-95.52,Other
+BHEL,Mar 2020,-1015.0,High Quality,Capital Intensive,763.16,Distress Signal
+BHEL,Mar 2021,518.0,Accrual Risk,Asset Light,-16.99,Reinvestor
+BHEL,Mar 2022,-458.0,High Quality,Moderate,-55.31,Shareholder Returns
+BHEL,Mar 2023,739.0,Accrual Risk,Moderate,70.79,Distress Signal
+BHEL,Mar 2024,-2382.0,Accrual Risk,Moderate,-335.02,Distress Signal
+BOSCHLTD,Dec 2012,47.0,Moderate,Capital Intensive,3.48,Reinvestor
+BOSCHLTD,Dec 2013,211.0,High Quality,Capital Intensive,16.37,Shareholder Returns
+BOSCHLTD,Mar 2015,213.0,High Quality,Capital Intensive,10.75,Shareholder Returns
+BOSCHLTD,Mar 2016,323.0,Moderate,Capital Intensive,17.2,Reinvestor
+BOSCHLTD,Mar 2017,2703.0,Moderate,Capital Intensive,137.7,Liquidating Assets
+BOSCHLTD,Mar 2018,559.0,High Quality,Capital Intensive,26.71,Shareholder Returns
+BOSCHLTD,Mar 2019,2359.0,Accrual Risk,Capital Intensive,109.52,Liquidating Assets
+BOSCHLTD,Mar 2020,463.0,High Quality,Capital Intensive,31.22,Shareholder Returns
+BOSCHLTD,Mar 2021,372.0,High Quality,Moderate,31.99,Shareholder Returns
+BOSCHLTD,Mar 2022,238.0,Accrual Risk,Asset Light,16.28,Reinvestor
+BOSCHLTD,Mar 2023,1476.0,Moderate,Asset Light,81.55,Liquidating Assets
+BOSCHLTD,Mar 2024,1536.0,Moderate,Asset Light,73.32,Liquidating Assets
+BPCL,Mar 2013,2322.0,High Quality,Asset Light,34.61,Shareholder Returns
+BPCL,Mar 2014,2707.0,High Quality,Asset Light,28.76,Shareholder Returns
+BPCL,Mar 2015,10206.0,High Quality,Moderate,104.36,Shareholder Returns
+BPCL,Mar 2016,1886.0,High Quality,Moderate,14.54,Shareholder Returns
+BPCL,Mar 2017,-6233.0,Moderate,Moderate,-45.22,Mixed
+BPCL,Mar 2018,4002.0,High Quality,Asset Light,26.13,Shareholder Returns
+BPCL,Mar 2019,-294.0,High Quality,Moderate,-1.95,Mixed
+BPCL,Mar 2020,-3254.0,High Quality,Moderate,-36.26,Mixed
+BPCL,Mar 2021,20981.0,High Quality,Asset Light,99.9,Shareholder Returns
+BPCL,Mar 2022,12198.0,High Quality,Asset Light,63.74,Shareholder Returns
+BPCL,Mar 2023,4660.0,High Quality,Asset Light,42.76,Shareholder Returns
+BPCL,Mar 2024,25415.0,High Quality,Asset Light,57.65,Shareholder Returns
+BRITANNIA,Mar 2013,348.0,High Quality,Asset Light,82.66,Liquidating Assets
+BRITANNIA,Mar 2014,425.0,High Quality,Moderate,67.78,Shareholder Returns
+BRITANNIA,Mar 2015,134.0,Moderate,Moderate,15.4,Reinvestor
+BRITANNIA,Mar 2016,254.0,High Quality,Capital Intensive,20.75,Shareholder Returns
+BRITANNIA,Mar 2017,291.0,Accrual Risk,Asset Light,22.77,Reinvestor
+BRITANNIA,Mar 2018,292.0,High Quality,Capital Intensive,19.45,Shareholder Returns
+BRITANNIA,Mar 2019,304.0,High Quality,Moderate,17.55,Shareholder Returns
+BRITANNIA,Mar 2020,-41.0,High Quality,Capital Intensive,-2.22,Mixed
+BRITANNIA,Mar 2021,2309.0,High Quality,Moderate,92.03,Liquidating Assets
+BRITANNIA,Mar 2022,2214.0,Moderate,Moderate,100.59,Liquidating Assets
+BRITANNIA,Mar 2023,1019.0,High Quality,Capital Intensive,35.99,Shareholder Returns
+BRITANNIA,Mar 2024,3050.0,High Quality,Asset Light,96.31,Liquidating Assets
+CANBK,Mar 2013,7575.0,High Quality,Asset Light,104.96,Shareholder Returns
+CANBK,Mar 2014,13864.0,High Quality,Asset Light,143.88,Shareholder Returns
+CANBK,Mar 2015,5240.0,High Quality,Asset Light,50.86,Shareholder Returns
+CANBK,Mar 2016,8903.0,Accrual Risk,Asset Light,50.06,Reinvestor
+CANBK,Mar 2017,2099.0,High Quality,Asset Light,13.38,Mixed
+CANBK,Mar 2018,-11607.0,High Quality,Asset Light,-45.37,Growth Funded by Debt
+CANBK,Mar 2019,17492.0,High Quality,Asset Light,64.3,Shareholder Returns
+CANBK,Mar 2020,-5734.0,High Quality,Asset Light,-21.39,Growth Funded by Debt
+CANBK,Mar 2021,58002.0,High Quality,Asset Light,133.53,Mixed
+CANBK,Mar 2022,-510.0,Accrual Risk,Asset Light,-1.24,Mixed
+CANBK,Mar 2023,-41134.0,Accrual Risk,Asset Light,-96.17,Growth Funded by Debt
+CANBK,Mar 2024,13296.0,Moderate,Asset Light,28.81,Reinvestor
+CHOLAFIN,Mar 2013,-3749.0,Accrual Risk,Asset Light,-544.91,Distress Signal
+CHOLAFIN,Mar 2014,-2530.0,Accrual Risk,Asset Light,-271.46,Growth Funded by Debt
+CHOLAFIN,Mar 2015,-2304.0,Accrual Risk,Asset Light,-217.15,Growth Funded by Debt
+CHOLAFIN,Mar 2016,-2946.0,Accrual Risk,Moderate,-232.7,Growth Funded by Debt
+CHOLAFIN,Mar 2017,-1690.0,Accrual Risk,Moderate,-127.84,Growth Funded by Debt
+CHOLAFIN,Mar 2018,-7986.0,Accrual Risk,Asset Light,-550.38,Growth Funded by Debt
+CHOLAFIN,Mar 2019,-9328.0,Accrual Risk,Asset Light,-571.57,Growth Funded by Debt
+CHOLAFIN,Mar 2020,-2129.0,Accrual Risk,Asset Light,-87.94,Growth Funded by Debt
+CHOLAFIN,Mar 2021,-10594.0,Accrual Risk,Capital Intensive,-363.68,Growth Funded by Debt
+CHOLAFIN,Mar 2022,-3931.0,Accrual Risk,Capital Intensive,-134.35,Distress Signal
+CHOLAFIN,Mar 2023,-29253.0,Accrual Risk,Capital Intensive,-807.87,Growth Funded by Debt
+CHOLAFIN,Mar 2024,-38538.0,Accrual Risk,Capital Intensive,-715.65,Growth Funded by Debt
+CIPLA,Mar 2013,-665.0,Moderate,Capital Intensive,-10.96,Mixed
+CIPLA,Mar 2014,298.0,High Quality,Capital Intensive,3.71,Shareholder Returns
+CIPLA,Mar 2015,223.0,Moderate,Capital Intensive,2.43,Mixed
+CIPLA,Mar 2016,-2792.0,High Quality,Capital Intensive,-24.69,Mixed
+CIPLA,Mar 2017,1078.0,High Quality,Capital Intensive,9.06,Shareholder Returns
+CIPLA,Mar 2018,629.0,High Quality,Moderate,5.1,Shareholder Returns
+CIPLA,Mar 2019,3.0,High Quality,Capital Intensive,0.02,Shareholder Returns
+CIPLA,Mar 2020,3182.0,High Quality,Asset Light,22.85,Liquidating Assets
+CIPLA,Mar 2021,1381.0,High Quality,Capital Intensive,9.26,Shareholder Returns
+CIPLA,Mar 2022,1468.0,High Quality,Capital Intensive,8.53,Shareholder Returns
+CIPLA,Mar 2023,862.0,High Quality,Capital Intensive,4.86,Shareholder Returns
+CIPLA,Mar 2024,1152.0,Moderate,Capital Intensive,5.91,Reinvestor
+COALINDIA,Mar 2013,7276.0,Moderate,Asset Light,14.49,Reinvestor
+COALINDIA,Mar 2014,23105.0,Moderate,Capital Intensive,43.72,Liquidating Assets
+COALINDIA,Mar 2015,15276.0,High Quality,Asset Light,26.91,Liquidating Assets
+COALINDIA,Mar 2016,21308.0,Moderate,Capital Intensive,36.03,Liquidating Assets
+COALINDIA,Mar 2017,16916.0,High Quality,Asset Light,25.74,Liquidating Assets
+COALINDIA,Mar 2018,13368.0,High Quality,Capital Intensive,17.6,Shareholder Returns
+COALINDIA,Mar 2019,8460.0,Moderate,Moderate,11.34,Reinvestor
+COALINDIA,Mar 2020,6010.0,Accrual Risk,Asset Light,8.07,Liquidating Assets
+COALINDIA,Mar 2021,10774.0,Moderate,Asset Light,15.09,Liquidating Assets
+COALINDIA,Mar 2022,15392.0,High Quality,Capital Intensive,18.11,Shareholder Returns
+COALINDIA,Mar 2023,12269.0,High Quality,Capital Intensive,13.05,Shareholder Returns
+COALINDIA,Mar 2024,13617.0,Accrual Risk,Moderate,14.43,Reinvestor
+DABUR,Mar 2013,248.0,High Quality,Capital Intensive,25.0,Shareholder Returns
+DABUR,Mar 2014,994.0,High Quality,Asset Light,85.54,Shareholder Returns
+DABUR,Mar 2015,171.0,Moderate,Capital Intensive,12.95,Reinvestor
+DABUR,Mar 2016,457.0,Moderate,Capital Intensive,30.11,Reinvestor
+DABUR,Mar 2017,420.0,Moderate,Capital Intensive,27.78,Reinvestor
+DABUR,Mar 2018,551.0,Moderate,Moderate,34.08,Reinvestor
+DABUR,Mar 2019,1837.0,High Quality,Moderate,105.57,Liquidating Assets
+DABUR,Mar 2020,1097.0,High Quality,Moderate,61.22,Shareholder Returns
+DABUR,Mar 2021,711.0,High Quality,Capital Intensive,35.51,Shareholder Returns
+DABUR,Mar 2022,529.0,High Quality,Capital Intensive,23.49,Shareholder Returns
+DABUR,Mar 2023,905.0,Moderate,Moderate,41.86,Reinvestor
+DABUR,Mar 2024,1042.0,High Quality,Moderate,43.42,Shareholder Returns
+DIVISLAB,Mar 2013,225.0,Moderate,Capital Intensive,27.57,Reinvestor
+DIVISLAB,Mar 2014,252.0,Moderate,Capital Intensive,24.75,Reinvestor
+DIVISLAB,Mar 2015,305.0,Moderate,Capital Intensive,26.0,Reinvestor
+DIVISLAB,Mar 2016,632.0,Moderate,Capital Intensive,44.41,Reinvestor
+DIVISLAB,Mar 2017,10.0,High Quality,Capital Intensive,0.69,Mixed
+DIVISLAB,Mar 2018,298.0,Moderate,Capital Intensive,23.48,Reinvestor
+DIVISLAB,Mar 2019,269.0,Moderate,Capital Intensive,14.35,Reinvestor
+DIVISLAB,Mar 2020,1133.0,Moderate,Asset Light,62.05,Reinvestor
+DIVISLAB,Mar 2021,2022.0,Moderate,Asset Light,70.53,Liquidating Assets
+DIVISLAB,Mar 2022,-283.0,Moderate,Capital Intensive,-7.28,Reinvestor
+DIVISLAB,Mar 2023,-248.0,High Quality,Capital Intensive,-10.46,Shareholder Returns
+DIVISLAB,Mar 2024,992.0,Moderate,Moderate,44.89,Reinvestor
+DLF,Mar 2013,4004.0,High Quality,Capital Intensive,152.07,Liquidating Assets
+DLF,Mar 2014,5392.0,High Quality,Capital Intensive,216.29,Liquidating Assets
+DLF,Mar 2015,2135.0,High Quality,Asset Light,70.84,Liquidating Assets
+DLF,Mar 2016,2139.0,High Quality,Capital Intensive,53.93,Shareholder Returns
+DLF,Mar 2017,-26.0,Accrual Risk,Capital Intensive,-0.75,Distress Signal
+DLF,Mar 2018,-1832.0,Accrual Risk,Capital Intensive,-77.04,Reinvestor
+DLF,Mar 2019,2046.0,High Quality,Asset Light,95.25,Cash Accumulator
+DLF,Mar 2020,6864.0,Accrual Risk,Capital Intensive,598.95,Liquidating Assets
+DLF,Mar 2021,1610.0,High Quality,Asset Light,109.6,Liquidating Assets
+DLF,Mar 2022,3099.0,High Quality,Moderate,177.8,Liquidating Assets
+DLF,Mar 2023,1914.0,High Quality,Capital Intensive,110.89,Shareholder Returns
+DLF,Mar 2024,1010.0,Moderate,Capital Intensive,47.55,Mixed
+DMART,Mar 2013,-104.0,High Quality,Moderate,-48.37,Mixed
+DMART,Mar 2014,-72.0,High Quality,Moderate,-21.11,Mixed
+DMART,Mar 2015,-252.0,High Quality,Moderate,-55.26,Mixed
+DMART,Mar 2016,-200.0,High Quality,Moderate,-30.12,Mixed
+DMART,Mar 2017,-2027.0,Moderate,Capital Intensive,-209.18,Mixed
+DMART,Mar 2018,1194.0,Moderate,Moderate,88.25,Liquidating Assets
+DMART,Mar 2019,-151.0,Moderate,Moderate,-9.25,Mixed
+DMART,Mar 2020,-3377.0,Moderate,Capital Intensive,-158.69,Mixed
+DMART,Mar 2021,265.0,High Quality,Moderate,15.19,Shareholder Returns
+DMART,Mar 2022,83.0,Moderate,Moderate,3.32,Reinvestor
+DMART,Mar 2023,317.0,High Quality,Moderate,8.71,Shareholder Returns
+DMART,Mar 2024,278.0,High Quality,Moderate,6.77,Shareholder Returns
+DRREDDY,Mar 2013,-59.0,Moderate,Capital Intensive,-2.21,Reinvestor
+DRREDDY,Mar 2014,366.0,High Quality,Capital Intensive,11.26,Shareholder Returns
+DRREDDY,Mar 2015,154.0,High Quality,Capital Intensive,4.39,Shareholder Returns
+DRREDDY,Mar 2016,1653.0,High Quality,Capital Intensive,46.11,Shareholder Returns
+DRREDDY,Mar 2017,254.0,High Quality,Capital Intensive,10.28,Shareholder Returns
+DRREDDY,Mar 2018,320.0,High Quality,Capital Intensive,13.61,Shareholder Returns
+DRREDDY,Mar 2019,2101.0,High Quality,Moderate,66.11,Shareholder Returns
+DRREDDY,Mar 2020,2489.0,High Quality,Asset Light,100.48,Shareholder Returns
+DRREDDY,Mar 2021,1315.0,High Quality,Capital Intensive,33.94,Shareholder Returns
+DRREDDY,Mar 2022,246.0,High Quality,Capital Intensive,6.53,Shareholder Returns
+DRREDDY,Mar 2023,1779.0,High Quality,Capital Intensive,27.5,Shareholder Returns
+DRREDDY,Mar 2024,509.0,Moderate,Capital Intensive,6.42,Reinvestor
+EICHERMOT,Dec 2012,-277.0,High Quality,Capital Intensive,-50.36,Shareholder Returns
+EICHERMOT,Dec 2013,-74.0,High Quality,Capital Intensive,-10.35,Shareholder Returns
+EICHERMOT,Dec 2014,-167.0,High Quality,Capital Intensive,-14.94,Shareholder Returns
+EICHERMOT,Mar 2016,462.0,High Quality,Capital Intensive,27.34,Shareholder Returns
+EICHERMOT,Mar 2017,-36.0,High Quality,Capital Intensive,-1.66,Mixed
+EICHERMOT,Mar 2018,337.0,High Quality,Capital Intensive,12.0,Shareholder Returns
+EICHERMOT,Mar 2019,915.0,Moderate,Moderate,31.51,Reinvestor
+EICHERMOT,Mar 2020,186.0,Moderate,Capital Intensive,8.52,Reinvestor
+EICHERMOT,Mar 2021,66.0,High Quality,Capital Intensive,3.7,Shareholder Returns
+EICHERMOT,Mar 2022,544.0,Moderate,Capital Intensive,24.98,Reinvestor
+EICHERMOT,Mar 2023,426.0,Moderate,Capital Intensive,12.36,Reinvestor
+EICHERMOT,Mar 2024,890.0,Moderate,Capital Intensive,20.56,Reinvestor
+GAIL,Mar 2013,-2023.0,High Quality,Capital Intensive,-27.24,Mixed
+GAIL,Mar 2014,149.0,Moderate,Moderate,1.87,Reinvestor
+GAIL,Mar 2015,1405.0,High Quality,Moderate,24.95,Shareholder Returns
+GAIL,Mar 2016,3056.0,High Quality,Asset Light,67.37,Shareholder Returns
+GAIL,Mar 2017,5690.0,High Quality,Asset Light,94.5,Shareholder Returns
+GAIL,Mar 2018,6109.0,High Quality,Moderate,78.3,Shareholder Returns
+GAIL,Mar 2019,2283.0,High Quality,Moderate,22.97,Shareholder Returns
+GAIL,Mar 2020,46.0,Moderate,Capital Intensive,0.51,Mixed
+GAIL,Mar 2021,4353.0,High Quality,Capital Intensive,60.08,Shareholder Returns
+GAIL,Mar 2022,3930.0,Moderate,Moderate,25.92,Reinvestor
+GAIL,Mar 2023,-4248.0,Moderate,Moderate,-56.64,Mixed
+GAIL,Mar 2024,4360.0,High Quality,Moderate,30.46,Shareholder Returns
+GODREJCP,Mar 2013,-45.0,Moderate,Capital Intensive,-4.52,Mixed
+GODREJCP,Mar 2014,622.0,High Quality,Moderate,53.21,Shareholder Returns
+GODREJCP,Mar 2015,-209.0,High Quality,Capital Intensive,-15.16,Shareholder Returns
+GODREJCP,Mar 2016,225.0,High Quality,Moderate,13.58,Shareholder Returns
+GODREJCP,Mar 2017,-383.0,High Quality,Capital Intensive,-20.08,Mixed
+GODREJCP,Mar 2018,1387.0,High Quality,Moderate,66.55,Shareholder Returns
+GODREJCP,Mar 2019,2003.0,Moderate,Asset Light,93.95,Liquidating Assets
+GODREJCP,Mar 2020,1036.0,High Quality,Moderate,48.1,Shareholder Returns
+GODREJCP,Mar 2021,1738.0,High Quality,Asset Light,72.45,Shareholder Returns
+GODREJCP,Mar 2022,607.0,Moderate,Moderate,25.2,Reinvestor
+GODREJCP,Mar 2023,397.0,High Quality,Capital Intensive,16.25,Shareholder Returns
+GODREJCP,Mar 2024,-1365.0,Accrual Risk,Capital Intensive,-46.16,Mixed
+GRASIM,Mar 2013,-1445.0,High Quality,Capital Intensive,-24.39,Mixed
+GRASIM,Mar 2014,1213.0,High Quality,Capital Intensive,24.68,Shareholder Returns
+GRASIM,Mar 2015,2235.0,High Quality,Moderate,43.45,Shareholder Returns
+GRASIM,Mar 2016,1353.0,High Quality,Capital Intensive,22.89,Shareholder Returns
+GRASIM,Mar 2017,3779.0,High Quality,Capital Intensive,51.16,Shareholder Returns
+GRASIM,Mar 2018,-2594.0,Accrual Risk,Asset Light,-22.34,Distress Signal
+GRASIM,Mar 2019,-3871.0,Accrual Risk,Asset Light,-23.26,Growth Funded by Debt
+GRASIM,Mar 2020,5256.0,High Quality,Capital Intensive,50.67,Shareholder Returns
+GRASIM,Mar 2021,7929.0,High Quality,Capital Intensive,42.55,Shareholder Returns
+GRASIM,Mar 2022,5985.0,Moderate,Asset Light,29.29,Reinvestor
+GRASIM,Mar 2023,-26397.0,Accrual Risk,Capital Intensive,-122.27,Growth Funded by Debt
+GRASIM,Mar 2024,-33833.0,Accrual Risk,Capital Intensive,-124.41,Growth Funded by Debt
+HAL,Mar 2017,2598.0,Accrual Risk,Capital Intensive,80.28,Other
+HAL,Mar 2018,-140.0,Accrual Risk,Moderate,-4.05,Other
+HAL,Mar 2019,-2402.0,Accrual Risk,Capital Intensive,-52.57,Distress Signal
+HAL,Mar 2020,203.0,Moderate,Moderate,4.16,Mixed
+HAL,Mar 2021,13934.0,High Quality,Moderate,260.89,Shareholder Returns
+HAL,Mar 2022,-2609.0,High Quality,Capital Intensive,-48.14,Shareholder Returns
+HAL,Mar 2023,3102.0,High Quality,Capital Intensive,46.51,Shareholder Returns
+HAL,Mar 2024,1814.0,High Quality,Capital Intensive,18.61,Shareholder Returns
+HAVELLS,Mar 2013,494.0,High Quality,Asset Light,73.29,Shareholder Returns
+HAVELLS,Mar 2014,492.0,High Quality,Moderate,63.32,Shareholder Returns
+HAVELLS,Mar 2015,478.0,High Quality,Moderate,63.31,Shareholder Returns
+HAVELLS,Mar 2016,392.0,Accrual Risk,Asset Light,49.25,Reinvestor
+HAVELLS,Mar 2017,547.0,High Quality,Moderate,67.12,Shareholder Returns
+HAVELLS,Mar 2018,154.0,High Quality,Capital Intensive,14.91,Shareholder Returns
+HAVELLS,Mar 2019,686.0,Moderate,Asset Light,57.7,Liquidating Assets
+HAVELLS,Mar 2020,279.0,High Quality,Moderate,26.15,Shareholder Returns
+HAVELLS,Mar 2021,-103.0,Moderate,Moderate,-6.48,Mixed
+HAVELLS,Mar 2022,969.0,High Quality,Moderate,54.59,Shareholder Returns
+HAVELLS,Mar 2023,596.0,Moderate,Asset Light,36.77,Liquidating Assets
+HAVELLS,Mar 2024,335.0,High Quality,Capital Intensive,17.81,Shareholder Returns
+HCLTECH,Jun 2013,2131.0,High Quality,Capital Intensive,37.52,Shareholder Returns
+HCLTECH,Jun 2014,1615.0,Moderate,Capital Intensive,20.1,Reinvestor
+HCLTECH,Jun 2015,3451.0,Moderate,Moderate,40.67,Reinvestor
+HCLTECH,Mar 2016,1615.0,Accrual Risk,Capital Intensive,,Reinvestor
+HCLTECH,Mar 2017,5105.0,High Quality,Capital Intensive,49.13,Shareholder Returns
+HCLTECH,Mar 2018,6092.0,Moderate,Moderate,54.17,Reinvestor
+HCLTECH,Mar 2019,5715.0,Moderate,Moderate,41.04,Reinvestor
+HCLTECH,Mar 2020,1027.0,High Quality,Capital Intensive,5.93,Shareholder Returns
+HCLTECH,Mar 2021,13953.0,High Quality,Moderate,69.6,Shareholder Returns
+HCLTECH,Mar 2022,18497.0,High Quality,Asset Light,90.1,Liquidating Assets
+HCLTECH,Mar 2023,14436.0,High Quality,Moderate,63.8,Shareholder Returns
+HCLTECH,Mar 2024,15840.0,High Quality,Moderate,65.46,Shareholder Returns
+HDFCBANK,Mar 2013,-6749.0,Accrual Risk,Asset Light,-53.43,Growth Funded by Debt
+HDFCBANK,Mar 2014,3112.0,Accrual Risk,Asset Light,23.04,Mixed
+HDFCBANK,Mar 2015,-22081.0,Accrual Risk,Asset Light,-136.61,Growth Funded by Debt
+HDFCBANK,Mar 2016,-35272.0,Accrual Risk,Asset Light,-175.88,Growth Funded by Debt
+HDFCBANK,Mar 2017,16136.0,High Quality,Asset Light,67.64,Shareholder Returns
+HDFCBANK,Mar 2018,16372.0,Moderate,Asset Light,55.44,Mixed
+HDFCBANK,Mar 2019,-64375.0,Accrual Risk,Asset Light,-184.69,Growth Funded by Debt
+HDFCBANK,Mar 2020,-18272.0,Accrual Risk,Asset Light,-40.19,Growth Funded by Debt
+HDFCBANK,Mar 2021,40653.0,High Quality,Asset Light,77.5,Shareholder Returns
+HDFCBANK,Mar 2022,-14011.0,Accrual Risk,Asset Light,-24.77,Growth Funded by Debt
+HDFCBANK,Mar 2023,17822.0,Accrual Risk,Asset Light,28.27,Mixed
+HDFCBANK,Mar 2024,35669.0,Accrual Risk,Moderate,20.48,Liquidating Assets
+HDFCLIFE,Mar 2013,,Accrual Risk,Capital Intensive,,Pre-Revenue
+HDFCLIFE,Mar 2014,,Accrual Risk,Capital Intensive,,Pre-Revenue
+HDFCLIFE,Mar 2015,945.0,High Quality,Capital Intensive,3.59,Shareholder Returns
+HDFCLIFE,Mar 2016,1725.0,High Quality,Capital Intensive,10.04,Shareholder Returns
+HDFCLIFE,Mar 2017,1053.0,High Quality,Capital Intensive,3.55,Shareholder Returns
+HDFCLIFE,Mar 2018,2318.0,High Quality,Capital Intensive,7.43,Shareholder Returns
+HDFCLIFE,Mar 2019,-314.0,High Quality,Capital Intensive,-0.83,Shareholder Returns
+HDFCLIFE,Mar 2020,-401.0,High Quality,Capital Intensive,-1.42,Mixed
+HDFCLIFE,Mar 2021,751.0,High Quality,Capital Intensive,1.07,Mixed
+HDFCLIFE,Mar 2022,5142.0,High Quality,Asset Light,7.75,Shareholder Returns
+HDFCLIFE,Mar 2023,-3188.0,High Quality,Capital Intensive,-4.55,Mixed
+HDFCLIFE,Mar 2024,-2893.0,High Quality,Capital Intensive,-2.87,Shareholder Returns
+HEROMOTOCO,Mar 2014,1347.0,High Quality,Moderate,6.2,Shareholder Returns
+HEROMOTOCO,Mar 2015,2217.0,Moderate,Asset Light,9.23,Liquidating Assets
+HEROMOTOCO,Mar 2016,1422.0,High Quality,Capital Intensive,5.92,Shareholder Returns
+HEROMOTOCO,Mar 2017,2035.0,High Quality,Moderate,8.47,Shareholder Returns
+HEROMOTOCO,Mar 2018,2159.0,High Quality,Moderate,7.96,Shareholder Returns
+HEROMOTOCO,Mar 2019,2330.0,Accrual Risk,Moderate,8.05,Liquidating Assets
+HEROMOTOCO,Mar 2020,2699.0,High Quality,Capital Intensive,10.72,Shareholder Returns
+HEROMOTOCO,Mar 2021,1821.0,High Quality,Moderate,6.77,Shareholder Returns
+HEROMOTOCO,Mar 2022,1882.0,Moderate,Asset Light,7.16,Reinvestor
+HEROMOTOCO,Mar 2023,2193.0,Moderate,Asset Light,7.3,Reinvestor
+HEROMOTOCO,Mar 2024,3095.0,High Quality,Moderate,9.51,Shareholder Returns
+HINDALCO,Mar 2013,-10824.0,Moderate,Capital Intensive,-14.93,Mixed
+HINDALCO,Mar 2014,-139.0,High Quality,Capital Intensive,-0.17,Mixed
+HINDALCO,Mar 2015,3270.0,High Quality,Moderate,3.43,Shareholder Returns
+HINDALCO,Mar 2016,8468.0,Accrual Risk,Moderate,9.31,Reinvestor
+HINDALCO,Mar 2017,9811.0,High Quality,Asset Light,11.17,Shareholder Returns
+HINDALCO,Mar 2018,16231.0,High Quality,Moderate,15.99,Liquidating Assets
+HINDALCO,Mar 2019,6521.0,High Quality,Moderate,5.67,Shareholder Returns
+HINDALCO,Mar 2020,5518.0,High Quality,Moderate,5.31,Mixed
+HINDALCO,Mar 2021,-8048.0,High Quality,Capital Intensive,-7.03,Shareholder Returns
+HINDALCO,Mar 2022,10065.0,High Quality,Moderate,6.04,Shareholder Returns
+HINDALCO,Mar 2023,11649.0,High Quality,Moderate,5.81,Shareholder Returns
+HINDALCO,Mar 2024,9789.0,High Quality,Moderate,5.1,Shareholder Returns
+HINDUNILVR,Mar 2013,3668.0,Moderate,Asset Light,16.1,Liquidating Assets
+HINDUNILVR,Mar 2014,3343.0,Moderate,Asset Light,13.66,Reinvestor
+HINDUNILVR,Mar 2015,3430.0,Moderate,Asset Light,12.91,Liquidating Assets
+HINDUNILVR,Mar 2016,3889.0,High Quality,Asset Light,14.8,Shareholder Returns
+HINDUNILVR,Mar 2017,4012.0,High Quality,Moderate,14.95,Shareholder Returns
+HINDUNILVR,Mar 2018,4996.0,High Quality,Asset Light,17.81,Shareholder Returns
+HINDUNILVR,Mar 2019,5362.0,Moderate,Asset Light,17.62,Reinvestor
+HINDUNILVR,Mar 2020,9414.0,High Quality,Moderate,31.46,Liquidating Assets
+HINDUNILVR,Mar 2021,7935.0,High Quality,Asset Light,22.41,Shareholder Returns
+HINDUNILVR,Mar 2022,7320.0,High Quality,Moderate,18.49,Shareholder Returns
+HINDUNILVR,Mar 2023,8507.0,Moderate,Asset Light,18.32,Reinvestor
+HINDUNILVR,Mar 2024,10145.0,High Quality,Capital Intensive,21.48,Shareholder Returns
+ICICIBANK,Mar 2013,-1069.0,High Quality,Capital Intensive,-3.37,Mixed
+ICICIBANK,Mar 2014,-8985.0,Moderate,Capital Intensive,-27.35,Mixed
+ICICIBANK,Mar 2015,-25448.0,Accrual Risk,Capital Intensive,-65.65,Growth Funded by Debt
+ICICIBANK,Mar 2016,11585.0,High Quality,Capital Intensive,22.17,Mixed
+ICICIBANK,Mar 2017,50925.0,High Quality,Asset Light,79.77,Shareholder Returns
+ICICIBANK,Mar 2018,-31168.0,High Quality,Capital Intensive,-42.81,Mixed
+ICICIBANK,Mar 2019,18389.0,High Quality,Capital Intensive,21.95,Shareholder Returns
+ICICIBANK,Mar 2020,37470.0,High Quality,Capital Intensive,43.9,Mixed
+ICICIBANK,Mar 2021,74384.0,High Quality,Capital Intensive,81.46,Shareholder Returns
+ICICIBANK,Mar 2022,18663.0,High Quality,Capital Intensive,23.1,Mixed
+ICICIBANK,Mar 2023,-71460.0,Accrual Risk,Capital Intensive,-81.33,Growth Funded by Debt
+ICICIBANK,Mar 2024,12547.0,High Quality,Capital Intensive,12.6,Mixed
+ICICIGI,Mar 2013,22.0,High Quality,Capital Intensive,0.52,Mixed
+ICICIGI,Mar 2014,-111.0,High Quality,Capital Intensive,-2.42,Mixed
+ICICIGI,Mar 2015,73.0,Accrual Risk,Moderate,1.64,Other
+ICICIGI,Mar 2016,201.0,High Quality,Moderate,3.81,Shareholder Returns
+ICICIGI,Mar 2017,-362.0,High Quality,Capital Intensive,-5.48,Mixed
+ICICIGI,Mar 2018,494.0,High Quality,Capital Intensive,6.89,Shareholder Returns
+ICICIGI,Mar 2019,120.0,High Quality,Capital Intensive,1.26,Shareholder Returns
+ICICIGI,Mar 2020,51.0,High Quality,Capital Intensive,0.52,Shareholder Returns
+ICICIGI,Mar 2021,407.0,High Quality,Capital Intensive,4.03,Shareholder Returns
+ICICIGI,Mar 2022,944.0,Moderate,Asset Light,6.29,Liquidating Assets
+ICICIGI,Mar 2023,605.0,High Quality,Capital Intensive,3.64,Shareholder Returns
+ICICIGI,Mar 2024,486.0,High Quality,Capital Intensive,2.71,Shareholder Returns
+ICICIPRULI,Mar 2013,-1077.0,Accrual Risk,Moderate,-5.59,Other
+ICICIPRULI,Mar 2014,3630.0,Accrual Risk,Capital Intensive,17.81,Other
+ICICIPRULI,Mar 2015,-1299.0,Accrual Risk,Moderate,-3.96,Reinvestor
+ICICIPRULI,Mar 2016,3661.0,High Quality,Asset Light,19.26,Liquidating Assets
+ICICIPRULI,Mar 2017,3434.0,High Quality,Asset Light,9.54,Shareholder Returns
+ICICIPRULI,Mar 2018,301.0,High Quality,Capital Intensive,0.81,Shareholder Returns
+ICICIPRULI,Mar 2019,3818.0,High Quality,Capital Intensive,9.33,Shareholder Returns
+ICICIPRULI,Mar 2020,-2201.0,High Quality,Capital Intensive,-10.31,Shareholder Returns
+ICICIPRULI,Mar 2021,2230.0,High Quality,Moderate,2.67,Mixed
+ICICIPRULI,Mar 2022,1015.0,High Quality,Asset Light,1.54,Shareholder Returns
+ICICIPRULI,Mar 2023,-1056.0,Accrual Risk,Asset Light,-2.02,Reinvestor
+ICICIPRULI,Mar 2024,105.0,Accrual Risk,Capital Intensive,0.11,Other
+INDIGO,Mar 2013,-149.0,High Quality,Capital Intensive,-1.78,Mixed
+INDIGO,Mar 2014,-1319.0,High Quality,Capital Intensive,-12.35,Mixed
+INDIGO,Mar 2015,1444.0,High Quality,Moderate,12.01,Shareholder Returns
+INDIGO,Mar 2016,1779.0,High Quality,Capital Intensive,13.71,Shareholder Returns
+INDIGO,Mar 2017,749.0,High Quality,Capital Intensive,4.58,Shareholder Returns
+INDIGO,Mar 2018,-249.0,High Quality,Capital Intensive,-1.25,Mixed
+INDIGO,Mar 2019,634.0,High Quality,Capital Intensive,2.21,Shareholder Returns
+INDIGO,Mar 2020,2370.0,Accrual Risk,Capital Intensive,7.48,Reinvestor
+INDIGO,Mar 2021,1608.0,Accrual Risk,Capital Intensive,10.99,Other
+INDIGO,Mar 2022,3591.0,Accrual Risk,Moderate,14.15,Liquidating Assets
+INDIGO,Mar 2023,8664.0,Accrual Risk,Moderate,18.08,Reinvestor
+INDIGO,Mar 2024,9424.0,High Quality,Capital Intensive,17.93,Shareholder Returns
+INDUSINDBK,Mar 2013,-660.0,Accrual Risk,Asset Light,-33.9,Growth Funded by Debt
+INDUSINDBK,Mar 2014,-4280.0,Accrual Risk,Asset Light,-167.51,Growth Funded by Debt
+INDUSINDBK,Mar 2015,-1697.0,Accrual Risk,Asset Light,-54.17,Growth Funded by Debt
+INDUSINDBK,Mar 2016,-3185.0,Accrual Risk,Asset Light,-76.05,Growth Funded by Debt
+INDUSINDBK,Mar 2017,11284.0,High Quality,Asset Light,198.52,Shareholder Returns
+INDUSINDBK,Mar 2018,-20917.0,Accrual Risk,Asset Light,-319.1,Growth Funded by Debt
+INDUSINDBK,Mar 2019,-7022.0,Accrual Risk,Asset Light,-75.64,Growth Funded by Debt
+INDUSINDBK,Mar 2020,-11513.0,Accrual Risk,Asset Light,-91.29,Distress Signal
+INDUSINDBK,Mar 2021,44420.0,High Quality,Asset Light,277.68,Shareholder Returns
+INDUSINDBK,Mar 2022,16249.0,High Quality,Asset Light,102.58,Shareholder Returns
+INDUSINDBK,Mar 2023,-12879.0,Accrual Risk,Asset Light,-82.96,Growth Funded by Debt
+INDUSINDBK,Mar 2024,-17468.0,Accrual Risk,Asset Light,-99.04,Pre-Revenue
+INFY,Mar 2013,4451.0,Moderate,Moderate,38.58,Reinvestor
+INFY,Mar 2014,7262.0,Moderate,Moderate,54.23,Reinvestor
+INFY,Mar 2015,9352.0,Moderate,Asset Light,62.84,Liquidating Assets
+INFY,Mar 2016,9143.0,Moderate,Asset Light,53.53,Reinvestor
+INFY,Mar 2017,-3133.0,Moderate,Capital Intensive,-16.84,Reinvestor
+INFY,Mar 2018,17751.0,Moderate,Moderate,94.31,Liquidating Assets
+INFY,Mar 2019,14209.0,Moderate,Asset Light,70.45,Reinvestor
+INFY,Mar 2020,16672.0,High Quality,Asset Light,74.87,Shareholder Returns
+INFY,Mar 2021,15851.0,High Quality,Moderate,56.84,Shareholder Returns
+INFY,Mar 2022,17400.0,High Quality,Moderate,55.25,Shareholder Returns
+INFY,Mar 2023,21396.0,Moderate,Asset Light,60.91,Reinvestor
+INFY,Mar 2024,20117.0,Moderate,Moderate,55.23,Reinvestor
+IOC,Mar 2013,46.0,High Quality,Asset Light,0.33,Mixed
+IOC,Mar 2014,5601.0,High Quality,Moderate,32.52,Shareholder Returns
+IOC,Mar 2015,35877.0,High Quality,Asset Light,339.26,Shareholder Returns
+IOC,Mar 2016,12014.0,High Quality,Moderate,54.51,Shareholder Returns
+IOC,Mar 2017,10532.0,High Quality,Moderate,30.84,Shareholder Returns
+IOC,Mar 2018,11996.0,High Quality,Moderate,28.8,Shareholder Returns
+IOC,Mar 2019,-9822.0,Moderate,Moderate,-27.85,Mixed
+IOC,Mar 2020,-21955.0,Accrual Risk,Moderate,-136.77,Mixed
+IOC,Mar 2021,26715.0,High Quality,Moderate,66.91,Shareholder Returns
+IOC,Mar 2022,4453.0,High Quality,Moderate,9.32,Shareholder Returns
+IOC,Mar 2023,1614.0,High Quality,Moderate,5.26,Shareholder Returns
+IOC,Mar 2024,39635.0,High Quality,Moderate,52.4,Shareholder Returns
+IRCTC,Mar 2015,23.0,Moderate,Moderate,15.13,Reinvestor
+IRCTC,Mar 2016,295.0,High Quality,Asset Light,155.26,Liquidating Assets
+IRCTC,Mar 2017,432.0,High Quality,Moderate,137.58,Liquidating Assets
+IRCTC,Mar 2018,64.0,Accrual Risk,Asset Light,23.36,Liquidating Assets
+IRCTC,Mar 2019,146.0,High Quality,Capital Intensive,38.12,Shareholder Returns
+IRCTC,Mar 2020,417.0,Moderate,Asset Light,59.32,Liquidating Assets
+IRCTC,Mar 2021,-205.0,High Quality,Capital Intensive,-109.04,Shareholder Returns
+IRCTC,Mar 2022,282.0,Moderate,Capital Intensive,32.27,Reinvestor
+IRCTC,Mar 2023,495.0,Moderate,Capital Intensive,38.79,Reinvestor
+IRCTC,Mar 2024,667.0,Moderate,Moderate,45.5,Reinvestor
+IRFC,Mar 2016,-16376.0,Accrual Risk,Asset Light,-219.28,Distress Signal
+IRFC,Mar 2017,-19453.0,Accrual Risk,Asset Light,-215.64,Distress Signal
+IRFC,Mar 2018,-28074.0,Accrual Risk,Asset Light,-304.19,Distress Signal
+IRFC,Mar 2019,-41747.0,Accrual Risk,Asset Light,-376.61,Distress Signal
+IRFC,Mar 2020,-62700.0,Accrual Risk,Asset Light,-469.49,Distress Signal
+IRFC,Mar 2021,-89907.0,Accrual Risk,Asset Light,-574.23,Distress Signal
+IRFC,Mar 2022,-64417.0,Accrual Risk,Asset Light,-319.26,Growth Funded by Debt
+IRFC,Mar 2023,-28588.0,Accrual Risk,Asset Light,-121.2,Distress Signal
+IRFC,Mar 2024,7906.0,High Quality,Asset Light,29.82,Shareholder Returns
+ITC,Mar 2013,3221.0,Moderate,Capital Intensive,28.71,Reinvestor
+ITC,Mar 2014,4090.0,Moderate,Capital Intensive,31.27,Reinvestor
+ITC,Mar 2015,4568.0,High Quality,Capital Intensive,32.05,Shareholder Returns
+ITC,Mar 2016,5878.0,High Quality,Capital Intensive,40.45,Shareholder Returns
+ITC,Mar 2017,7376.0,High Quality,Moderate,47.68,Shareholder Returns
+ITC,Mar 2018,6055.0,High Quality,Capital Intensive,36.65,Shareholder Returns
+ITC,Mar 2019,7037.0,Moderate,Capital Intensive,37.96,Reinvestor
+ITC,Mar 2020,8516.0,Moderate,Capital Intensive,44.02,Reinvestor
+ITC,Mar 2021,18267.0,Moderate,Capital Intensive,107.04,Liquidating Assets
+ITC,Mar 2022,13538.0,High Quality,Moderate,65.65,Shareholder Returns
+ITC,Mar 2023,13146.0,Moderate,Capital Intensive,51.14,Reinvestor
+ITC,Mar 2024,18742.0,Moderate,Asset Light,71.44,Liquidating Assets
+JINDALSTEL,Mar 2013,-6069.0,High Quality,Capital Intensive,-99.39,Mixed
+JINDALSTEL,Mar 2014,-8114.0,High Quality,Capital Intensive,-139.92,Mixed
+JINDALSTEL,Mar 2015,-5535.0,Accrual Risk,Capital Intensive,-101.3,Mixed
+JINDALSTEL,Mar 2016,2071.0,Accrual Risk,Capital Intensive,60.26,Reinvestor
+JINDALSTEL,Mar 2017,4852.0,Accrual Risk,Capital Intensive,103.04,Reinvestor
+JINDALSTEL,Mar 2018,6293.0,Accrual Risk,Moderate,97.28,Reinvestor
+JINDALSTEL,Mar 2019,8195.0,Accrual Risk,Asset Light,97.42,Reinvestor
+JINDALSTEL,Mar 2020,7338.0,Accrual Risk,Moderate,107.42,Reinvestor
+JINDALSTEL,Mar 2021,10077.0,High Quality,Moderate,92.17,Shareholder Returns
+JINDALSTEL,Mar 2022,13717.0,High Quality,Moderate,88.41,Shareholder Returns
+JINDALSTEL,Mar 2023,3257.0,High Quality,Moderate,32.76,Shareholder Returns
+JINDALSTEL,Mar 2024,-2336.0,High Quality,Capital Intensive,-22.9,Mixed
+JIOFIN,Mar 2023,945.0,High Quality,Capital Intensive,2423.08,Shareholder Returns
+JIOFIN,Mar 2024,763.0,Accrual Risk,Capital Intensive,48.94,Other
+JSWENERGY,Mar 2013,781.0,High Quality,Capital Intensive,27.88,Shareholder Returns
+JSWENERGY,Mar 2014,1906.0,High Quality,Moderate,58.56,Shareholder Returns
+JSWENERGY,Mar 2015,2972.0,High Quality,Moderate,82.01,Shareholder Returns
+JSWENERGY,Mar 2016,266.0,High Quality,Capital Intensive,6.6,Shareholder Returns
+JSWENERGY,Mar 2017,3091.0,High Quality,Capital Intensive,92.99,Shareholder Returns
+JSWENERGY,Mar 2018,3719.0,High Quality,Asset Light,137.08,Shareholder Returns
+JSWENERGY,Mar 2019,2436.0,High Quality,Asset Light,85.32,Shareholder Returns
+JSWENERGY,Mar 2020,2383.0,High Quality,Moderate,80.59,Liquidating Assets
+JSWENERGY,Mar 2021,2670.0,High Quality,Capital Intensive,91.66,Shareholder Returns
+JSWENERGY,Mar 2022,1565.0,High Quality,Capital Intensive,43.81,Shareholder Returns
+JSWENERGY,Mar 2023,-4694.0,High Quality,Capital Intensive,-143.02,Mixed
+JSWENERGY,Mar 2024,-1963.0,High Quality,Capital Intensive,-36.47,Mixed
+JSWSTEEL,Mar 2013,411.0,High Quality,Capital Intensive,6.31,Shareholder Returns
+JSWSTEEL,Mar 2014,-3024.0,High Quality,Capital Intensive,-32.98,Mixed
+JSWSTEEL,Mar 2015,504.0,High Quality,Capital Intensive,5.38,Shareholder Returns
+JSWSTEEL,Mar 2016,3040.0,Accrual Risk,Capital Intensive,47.34,Reinvestor
+JSWSTEEL,Mar 2017,2794.0,High Quality,Capital Intensive,22.7,Shareholder Returns
+JSWSTEEL,Mar 2018,7850.0,High Quality,Moderate,52.63,Shareholder Returns
+JSWSTEEL,Mar 2019,3246.0,High Quality,Capital Intensive,17.15,Mixed
+JSWSTEEL,Mar 2020,-6804.0,High Quality,Capital Intensive,-57.6,Mixed
+JSWSTEEL,Mar 2021,11087.0,High Quality,Capital Intensive,54.95,Shareholder Returns
+JSWSTEEL,Mar 2022,11522.0,High Quality,Capital Intensive,29.46,Shareholder Returns
+JSWSTEEL,Mar 2023,12593.0,High Quality,Moderate,68.18,Shareholder Returns
+JSWSTEEL,Mar 2024,-2389.0,High Quality,Capital Intensive,-8.48,Shareholder Returns
+KOTAKBANK,Mar 2013,-6157.0,High Quality,Capital Intensive,-93.25,Mixed
+KOTAKBANK,Mar 2014,7938.0,High Quality,Capital Intensive,112.55,Shareholder Returns
+KOTAKBANK,Mar 2015,-2165.0,Moderate,Capital Intensive,-22.28,Mixed
+KOTAKBANK,Mar 2016,2672.0,High Quality,Capital Intensive,23.15,Mixed
+KOTAKBANK,Mar 2017,7933.0,High Quality,Capital Intensive,53.49,Mixed
+KOTAKBANK,Mar 2018,-15867.0,Accrual Risk,Capital Intensive,-94.42,Growth Funded by Debt
+KOTAKBANK,Mar 2019,-1501.0,Accrual Risk,Capital Intensive,-7.6,Mixed
+KOTAKBANK,Mar 2020,33551.0,High Quality,Capital Intensive,148.6,Shareholder Returns
+KOTAKBANK,Mar 2021,-6291.0,Accrual Risk,Capital Intensive,-21.1,Reinvestor
+KOTAKBANK,Mar 2022,-2595.0,Moderate,Capital Intensive,-8.45,Mixed
+KOTAKBANK,Mar 2023,-11623.0,Accrual Risk,Capital Intensive,-34.71,Growth Funded by Debt
+KOTAKBANK,Mar 2024,6766.0,Moderate,Capital Intensive,14.38,Mixed
+LICI,Mar 2019,22910.0,High Quality,Asset Light,386.99,Liquidating Assets
+LICI,Mar 2020,13952.0,High Quality,Moderate,-200.83,Shareholder Returns
+LICI,Mar 2021,229049.0,High Quality,Capital Intensive,-90892.46,Liquidating Assets
+LICI,Mar 2022,8748.0,Accrual Risk,Asset Light,263.02,Distress Signal
+LICI,Mar 2023,1671.0,High Quality,Moderate,4.88,Shareholder Returns
+LICI,Mar 2024,853.0,Moderate,Asset Light,2.6,Reinvestor
+LODHA,Mar 2016,-467.0,Moderate,Capital Intensive,-21.97,Mixed
+LODHA,Mar 2017,295.0,High Quality,Capital Intensive,18.28,Shareholder Returns
+LODHA,Mar 2018,45.0,Moderate,Moderate,2.68,Mixed
+LODHA,Mar 2019,-638.0,Accrual Risk,Asset Light,-20.07,Growth Funded by Debt
+LODHA,Mar 2020,3954.0,High Quality,Asset Light,206.26,Liquidating Assets
+LODHA,Mar 2021,2944.0,High Quality,Moderate,212.87,Liquidating Assets
+LODHA,Mar 2022,3137.0,High Quality,Capital Intensive,143.5,Liquidating Assets
+LODHA,Mar 2023,4539.0,High Quality,Capital Intensive,219.91,Liquidating Assets
+LODHA,Mar 2024,-435.0,High Quality,Capital Intensive,-16.32,Mixed
+LT,Mar 2013,-11277.0,Accrual Risk,Capital Intensive,-98.97,Growth Funded by Debt
+LT,Mar 2014,-12653.0,Accrual Risk,Moderate,-89.83,Growth Funded by Debt
+LT,Mar 2015,-6143.0,Accrual Risk,Moderate,-39.17,Growth Funded by Debt
+LT,Mar 2016,-7867.0,Accrual Risk,Moderate,-50.8,Growth Funded by Debt
+LT,Mar 2017,-3141.0,High Quality,Capital Intensive,-18.9,Mixed
+LT,Mar 2018,-6117.0,Accrual Risk,Moderate,-30.42,Distress Signal
+LT,Mar 2019,-15779.0,Accrual Risk,Capital Intensive,-69.01,Growth Funded by Debt
+LT,Mar 2020,-1714.0,Moderate,Moderate,-6.98,Mixed
+LT,Mar 2021,17324.0,High Quality,Moderate,73.84,Shareholder Returns
+LT,Mar 2022,15579.0,High Quality,Asset Light,64.07,Shareholder Returns
+LT,Mar 2023,14729.0,High Quality,Moderate,54.22,Shareholder Returns
+LT,Mar 2024,20445.0,High Quality,Asset Light,68.46,Liquidating Assets
+LTIM,Mar 2013,384.0,High Quality,Moderate,44.14,Shareholder Returns
+LTIM,Mar 2014,808.0,Moderate,Moderate,70.44,Liquidating Assets
+LTIM,Mar 2015,539.0,Moderate,Asset Light,53.63,Reinvestor
+LTIM,Mar 2016,818.0,High Quality,Asset Light,79.57,Shareholder Returns
+LTIM,Mar 2017,209.0,High Quality,Capital Intensive,16.99,Shareholder Returns
+LTIM,Mar 2018,392.0,Moderate,Moderate,33.02,Reinvestor
+LTIM,Mar 2019,646.0,Moderate,Moderate,34.31,Reinvestor
+LTIM,Mar 2020,1001.0,High Quality,Moderate,49.33,Shareholder Returns
+LTIM,Mar 2021,743.0,High Quality,Capital Intensive,27.27,Shareholder Returns
+LTIM,Mar 2022,1608.0,Moderate,Moderate,30.63,Reinvestor
+LTIM,Mar 2023,2824.0,Moderate,Asset Light,46.23,Reinvestor
+LTIM,Mar 2024,1752.0,High Quality,Capital Intensive,27.43,Shareholder Returns
+M&M,Mar 2013,-3825.0,Accrual Risk,Moderate,-41.96,Growth Funded by Debt
+M&M,Mar 2014,-4768.0,Accrual Risk,Moderate,-46.88,Growth Funded by Debt
+M&M,Mar 2015,-3302.0,Accrual Risk,Moderate,-37.55,Mixed
+M&M,Mar 2016,-3121.0,Moderate,Moderate,-30.96,Mixed
+M&M,Mar 2017,-5692.0,Accrual Risk,Moderate,-53.02,Mixed
+M&M,Mar 2018,-4785.0,Accrual Risk,Moderate,-36.18,Mixed
+M&M,Mar 2019,-11521.0,Accrual Risk,Moderate,-75.76,Growth Funded by Debt
+M&M,Mar 2020,-8327.0,High Quality,Capital Intensive,-81.97,Growth Funded by Debt
+M&M,Mar 2021,-1777.0,High Quality,Capital Intensive,-15.47,Mixed
+M&M,Mar 2022,5996.0,High Quality,Moderate,40.84,Shareholder Returns
+M&M,Mar 2023,-15940.0,Accrual Risk,Moderate,-78.58,Growth Funded by Debt
+M&M,Mar 2024,-11245.0,Accrual Risk,Moderate,-45.18,Growth Funded by Debt
+MARUTI,Mar 2013,940.0,High Quality,Moderate,21.55,Shareholder Returns
+MARUTI,Mar 2014,-2.0,High Quality,Capital Intensive,-0.04,Shareholder Returns
+MARUTI,Mar 2015,1958.0,High Quality,Capital Intensive,28.41,Shareholder Returns
+MARUTI,Mar 2016,1252.0,High Quality,Capital Intensive,13.87,Shareholder Returns
+MARUTI,Mar 2017,1109.0,High Quality,Capital Intensive,10.64,Shareholder Returns
+MARUTI,Mar 2018,3486.0,High Quality,Capital Intensive,28.77,Shareholder Returns
+MARUTI,Mar 2019,3061.0,Moderate,Moderate,27.69,Reinvestor
+MARUTI,Mar 2020,2939.0,Moderate,Asset Light,39.96,Reinvestor
+MARUTI,Mar 2021,1565.0,High Quality,Capital Intensive,28.92,Shareholder Returns
+MARUTI,Mar 2022,1601.0,Accrual Risk,Asset Light,27.83,Reinvestor
+MARUTI,Mar 2023,1995.0,High Quality,Moderate,15.2,Shareholder Returns
+MARUTI,Mar 2024,4936.0,High Quality,Capital Intensive,26.5,Shareholder Returns
+MOTHERSON,Mar 2013,397.0,High Quality,Moderate,26.82,Shareholder Returns
+MOTHERSON,Mar 2014,1323.0,High Quality,Moderate,55.19,Shareholder Returns
+MOTHERSON,Mar 2015,546.0,High Quality,Capital Intensive,19.2,Mixed
+MOTHERSON,Mar 2016,282.0,High Quality,Moderate,7.95,Shareholder Returns
+MOTHERSON,Mar 2017,-2345.0,High Quality,Capital Intensive,-56.22,Mixed
+MOTHERSON,Mar 2018,70.0,High Quality,Moderate,1.37,Shareholder Returns
+MOTHERSON,Mar 2019,994.0,High Quality,Moderate,18.59,Shareholder Returns
+MOTHERSON,Mar 2020,4132.0,High Quality,Moderate,88.78,Shareholder Returns
+MOTHERSON,Mar 2021,3165.0,High Quality,Moderate,72.43,Shareholder Returns
+MOTHERSON,Mar 2022,159.0,High Quality,Moderate,3.37,Shareholder Returns
+MOTHERSON,Mar 2023,2395.0,High Quality,Asset Light,38.31,Shareholder Returns
+MOTHERSON,Mar 2024,925.0,High Quality,Moderate,9.92,Mixed
+NAUKRI,Mar 2013,29.0,Moderate,Capital Intensive,23.97,Reinvestor
+NAUKRI,Mar 2014,-123.0,High Quality,Capital Intensive,-126.8,Mixed
+NAUKRI,Mar 2015,-1000.0,Accrual Risk,Capital Intensive,-4761.9,Mixed
+NAUKRI,Mar 2016,76.0,Moderate,Asset Light,83.52,Reinvestor
+NAUKRI,Mar 2017,48.0,Accrual Risk,Capital Intensive,-533.33,Reinvestor
+NAUKRI,Mar 2018,104.0,Moderate,Capital Intensive,47.49,Reinvestor
+NAUKRI,Mar 2019,217.0,Accrual Risk,Moderate,2411.11,Reinvestor
+NAUKRI,Mar 2020,447.0,Accrual Risk,Moderate,-127.71,Liquidating Assets
+NAUKRI,Mar 2021,-1767.0,Accrual Risk,Capital Intensive,-2387.84,Mixed
+NAUKRI,Mar 2022,-470.0,Accrual Risk,Capital Intensive,-105.38,Mixed
+NAUKRI,Mar 2023,154.0,Accrual Risk,Capital Intensive,44.25,Mixed
+NAUKRI,Mar 2024,-150.0,High Quality,Capital Intensive,-21.1,Mixed
+NESTLEIND,Dec 2013,1355.0,High Quality,Moderate,69.56,Shareholder Returns
+NESTLEIND,Dec 2014,1212.0,High Quality,Moderate,59.44,Shareholder Returns
+NESTLEIND,Dec 2015,1028.0,High Quality,Asset Light,66.11,Shareholder Returns
+NESTLEIND,Dec 2016,1340.0,High Quality,Asset Light,72.43,Shareholder Returns
+NESTLEIND,Dec 2017,1687.0,High Quality,Asset Light,80.45,Shareholder Returns
+NESTLEIND,Dec 2018,2000.0,High Quality,Asset Light,76.39,Shareholder Returns
+NESTLEIND,Dec 2019,2378.0,High Quality,Asset Light,81.27,Liquidating Assets
+NESTLEIND,Dec 2020,2133.0,High Quality,Asset Light,66.61,Shareholder Returns
+NESTLEIND,Dec 2021,316.0,High Quality,Capital Intensive,8.87,Shareholder Returns
+NESTLEIND,Dec 2022,2345.0,High Quality,Asset Light,63.28,Shareholder Returns
+NESTLEIND,Dec 2023,2465.0,High Quality,Moderate,55.13,Shareholder Returns
+NESTLEIND,Mar 2024,2938.0,High Quality,Moderate,50.54,Shareholder Returns
+NHPC,Mar 2013,1516.0,Moderate,Capital Intensive,36.51,Reinvestor
+NHPC,Mar 2014,2702.0,High Quality,Capital Intensive,62.23,Shareholder Returns
+NHPC,Mar 2015,3293.0,High Quality,Capital Intensive,64.14,Shareholder Returns
+NHPC,Mar 2016,5225.0,High Quality,Capital Intensive,109.24,Shareholder Returns
+NHPC,Mar 2017,6465.0,High Quality,Capital Intensive,132.37,Shareholder Returns
+NHPC,Mar 2018,3810.0,High Quality,Capital Intensive,89.69,Shareholder Returns
+NHPC,Mar 2019,2642.0,High Quality,Capital Intensive,53.04,Shareholder Returns
+NHPC,Mar 2020,6.0,Moderate,Capital Intensive,0.11,Mixed
+NHPC,Mar 2021,3463.0,High Quality,Capital Intensive,65.62,Shareholder Returns
+NHPC,Mar 2022,1506.0,High Quality,Capital Intensive,37.53,Shareholder Returns
+NHPC,Mar 2023,514.0,High Quality,Capital Intensive,8.31,Shareholder Returns
+NHPC,Mar 2024,970.0,High Quality,Capital Intensive,20.18,Shareholder Returns
+NTPC,Mar 2013,-337.0,High Quality,Capital Intensive,-1.86,Mixed
+NTPC,Mar 2014,1022.0,High Quality,Capital Intensive,5.18,Shareholder Returns
+NTPC,Mar 2015,-1088.0,High Quality,Capital Intensive,-6.27,Shareholder Returns
+NTPC,Mar 2016,4963.0,High Quality,Capital Intensive,26.73,Shareholder Returns
+NTPC,Mar 2017,-4313.0,High Quality,Capital Intensive,-19.97,Mixed
+NTPC,Mar 2018,-1008.0,High Quality,Capital Intensive,-4.48,Mixed
+NTPC,Mar 2019,-5377.0,High Quality,Capital Intensive,-23.68,Mixed
+NTPC,Mar 2020,-5738.0,High Quality,Capital Intensive,-18.17,Mixed
+NTPC,Mar 2021,11410.0,High Quality,Capital Intensive,33.52,Shareholder Returns
+NTPC,Mar 2022,18897.0,High Quality,Capital Intensive,46.82,Shareholder Returns
+NTPC,Mar 2023,21007.0,High Quality,Capital Intensive,44.14,Shareholder Returns
+NTPC,Mar 2024,8644.0,High Quality,Capital Intensive,16.8,Shareholder Returns
+ONGC,Mar 2013,-1346.0,High Quality,Capital Intensive,-3.09,Shareholder Returns
+ONGC,Mar 2014,-10363.0,High Quality,Capital Intensive,-21.09,Mixed
+ONGC,Mar 2015,3892.0,High Quality,Capital Intensive,9.2,Shareholder Returns
+ONGC,Mar 2016,8036.0,High Quality,Capital Intensive,20.53,Shareholder Returns
+ONGC,Mar 2017,1965.0,High Quality,Capital Intensive,3.72,Shareholder Returns
+ONGC,Mar 2018,-10006.0,High Quality,Capital Intensive,-17.59,Mixed
+ONGC,Mar 2019,24326.0,High Quality,Capital Intensive,32.51,Shareholder Returns
+ONGC,Mar 2020,17434.0,High Quality,Capital Intensive,33.46,Shareholder Returns
+ONGC,Mar 2021,8044.0,High Quality,Capital Intensive,16.26,Shareholder Returns
+ONGC,Mar 2022,37051.0,High Quality,Capital Intensive,46.39,Shareholder Returns
+ONGC,Mar 2023,11372.0,High Quality,Capital Intensive,15.06,Shareholder Returns
+ONGC,Mar 2024,42060.0,High Quality,Capital Intensive,40.9,Shareholder Returns
+PFC,Mar 2013,-25080.0,Accrual Risk,Asset Light,-418.91,Distress Signal
+PFC,Mar 2014,-22464.0,Accrual Risk,Asset Light,-295.31,Distress Signal
+PFC,Mar 2015,-21946.0,Accrual Risk,Asset Light,-260.36,Growth Funded by Debt
+PFC,Mar 2016,-15271.0,Accrual Risk,Moderate,-166.68,Growth Funded by Debt
+PFC,Mar 2017,1128.0,Moderate,Asset Light,21.38,Mixed
+PFC,Mar 2018,-55739.0,Accrual Risk,Asset Light,-474.29,Distress Signal
+PFC,Mar 2019,-93715.0,Accrual Risk,Capital Intensive,-526.99,Growth Funded by Debt
+PFC,Mar 2020,-42221.0,Accrual Risk,Asset Light,-301.32,Growth Funded by Debt
+PFC,Mar 2021,-57402.0,Accrual Risk,Asset Light,-288.87,Distress Signal
+PFC,Mar 2022,4357.0,Accrual Risk,Asset Light,18.67,Reinvestor
+PFC,Mar 2023,-76411.0,Accrual Risk,Asset Light,-288.33,Growth Funded by Debt
+PFC,Mar 2024,-101229.0,Accrual Risk,Moderate,-301.52,Growth Funded by Debt
+PIDILITIND,Mar 2013,328.0,High Quality,Moderate,58.78,Shareholder Returns
+PIDILITIND,Mar 2014,295.0,Moderate,Asset Light,43.9,Reinvestor
+PIDILITIND,Mar 2015,116.0,High Quality,Capital Intensive,15.05,Shareholder Returns
+PIDILITIND,Mar 2016,416.0,High Quality,Capital Intensive,35.46,Shareholder Returns
+PIDILITIND,Mar 2017,-85.0,Moderate,Capital Intensive,-6.74,Mixed
+PIDILITIND,Mar 2018,835.0,Moderate,Asset Light,62.27,Liquidating Assets
+PIDILITIND,Mar 2019,332.0,Moderate,Moderate,24.22,Reinvestor
+PIDILITIND,Mar 2020,1383.0,High Quality,Asset Light,87.75,Liquidating Assets
+PIDILITIND,Mar 2021,-296.0,High Quality,Capital Intensive,-17.56,Shareholder Returns
+PIDILITIND,Mar 2022,397.0,Moderate,Moderate,21.39,Reinvestor
+PIDILITIND,Mar 2023,659.0,High Quality,Moderate,33.18,Shareholder Returns
+PIDILITIND,Mar 2024,955.0,High Quality,Capital Intensive,35.27,Shareholder Returns
+PNB,Mar 2013,-1292.0,Accrual Risk,Asset Light,,Pre-Revenue
+PNB,Mar 2014,16604.0,High Quality,Asset Light,,Mixed
+PNB,Mar 2015,3942.0,High Quality,Asset Light,,Mixed
+PNB,Mar 2016,12815.0,Accrual Risk,Asset Light,,Mixed
+PNB,Mar 2017,22097.0,High Quality,Asset Light,,Liquidating Assets
+PNB,Mar 2018,-1350.0,Accrual Risk,Asset Light,,Distress Signal
+PNB,Mar 2019,-34161.0,High Quality,Asset Light,,Growth Funded by Debt
+PNB,Mar 2020,-13131.0,Accrual Risk,Asset Light,,Growth Funded by Debt
+PNB,Mar 2021,30163.0,High Quality,Asset Light,,Mixed
+PNB,Mar 2022,18828.0,High Quality,Asset Light,,Mixed
+PNB,Mar 2023,21860.0,High Quality,Asset Light,,Mixed
+PNB,Mar 2024,-29445.0,Accrual Risk,Asset Light,,Growth Funded by Debt
+POWERGRID,Mar 2013,-10394.0,High Quality,Capital Intensive,-95.91,Mixed
+POWERGRID,Mar 2014,-11416.0,High Quality,Capital Intensive,-88.04,Mixed
+POWERGRID,Mar 2015,-8385.0,High Quality,Capital Intensive,-56.17,Mixed
+POWERGRID,Mar 2016,-6568.0,High Quality,Capital Intensive,-36.12,Mixed
+POWERGRID,Mar 2017,-2261.0,High Quality,Capital Intensive,-10.07,Mixed
+POWERGRID,Mar 2018,-2991.0,High Quality,Capital Intensive,-11.52,Mixed
+POWERGRID,Mar 2019,4544.0,High Quality,Capital Intensive,16.88,Shareholder Returns
+POWERGRID,Mar 2020,20006.0,High Quality,Capital Intensive,60.83,Shareholder Returns
+POWERGRID,Mar 2021,20159.0,High Quality,Capital Intensive,57.75,Shareholder Returns
+POWERGRID,Mar 2022,26877.0,High Quality,Asset Light,75.02,Liquidating Assets
+POWERGRID,Mar 2023,33065.0,High Quality,Capital Intensive,83.55,Shareholder Returns
+POWERGRID,Mar 2024,24176.0,High Quality,Capital Intensive,60.7,Shareholder Returns
+RECLTD,Mar 2013,-19907.0,Accrual Risk,Asset Light,-150.02,Distress Signal
+RECLTD,Mar 2014,-17108.0,Accrual Risk,Asset Light,-102.75,Distress Signal
+RECLTD,Mar 2015,-23747.0,Accrual Risk,Asset Light,-122.44,Distress Signal
+RECLTD,Mar 2016,-14034.0,Accrual Risk,Moderate,-62.53,Growth Funded by Debt
+RECLTD,Mar 2017,6704.0,High Quality,Asset Light,29.86,Shareholder Returns
+RECLTD,Mar 2018,-32464.0,Accrual Risk,Asset Light,-168.39,Distress Signal
+RECLTD,Mar 2019,-35409.0,Accrual Risk,Asset Light,-149.37,Distress Signal
+RECLTD,Mar 2020,-32591.0,Accrual Risk,Asset Light,-125.54,Distress Signal
+RECLTD,Mar 2021,-42651.0,Accrual Risk,Asset Light,-132.19,Distress Signal
+RECLTD,Mar 2022,-1106.0,Accrual Risk,Asset Light,-3.21,Growth Funded by Debt
+RECLTD,Mar 2023,-38303.0,Accrual Risk,Asset Light,-101.79,Growth Funded by Debt
+RECLTD,Mar 2024,-59554.0,Accrual Risk,Moderate,-124.37,Growth Funded by Debt
+RELIANCE,Mar 2013,9317.0,High Quality,Moderate,28.1,Mixed
+RELIANCE,Mar 2014,-29809.0,High Quality,Capital Intensive,-85.33,Mixed
+RELIANCE,Mar 2015,-30332.0,High Quality,Capital Intensive,-81.0,Mixed
+RELIANCE,Mar 2016,1948.0,High Quality,Capital Intensive,4.66,Shareholder Returns
+RELIANCE,Mar 2017,-16651.0,High Quality,Capital Intensive,-35.96,Mixed
+RELIANCE,Mar 2018,3267.0,High Quality,Capital Intensive,5.08,Shareholder Returns
+RELIANCE,Mar 2019,-52161.0,High Quality,Capital Intensive,-61.91,Mixed
+RELIANCE,Mar 2020,22380.0,High Quality,Capital Intensive,25.07,Shareholder Returns
+RELIANCE,Mar 2021,-115427.0,Moderate,Capital Intensive,-142.87,Mixed
+RELIANCE,Mar 2022,1492.0,High Quality,Capital Intensive,1.37,Mixed
+RELIANCE,Mar 2023,22031.0,High Quality,Capital Intensive,15.48,Mixed
+RELIANCE,Mar 2024,45207.0,High Quality,Capital Intensive,27.82,Shareholder Returns
+SBILIFE,Mar 2013,903.0,High Quality,Asset Light,211.48,Shareholder Returns
+SBILIFE,Mar 2014,-542.0,Accrual Risk,Moderate,-106.07,Reinvestor
+SBILIFE,Mar 2015,2533.0,High Quality,Asset Light,319.02,Shareholder Returns
+SBILIFE,Mar 2016,-1426.0,High Quality,Capital Intensive,-155.0,Shareholder Returns
+SBILIFE,Mar 2017,-507.0,High Quality,Capital Intensive,-47.47,Shareholder Returns
+SBILIFE,Mar 2018,1485.0,High Quality,Capital Intensive,111.49,Shareholder Returns
+SBILIFE,Mar 2019,-79.0,High Quality,Capital Intensive,-5.36,Shareholder Returns
+SBILIFE,Mar 2020,2313.0,High Quality,Capital Intensive,171.21,Shareholder Returns
+SBILIFE,Mar 2021,4675.0,High Quality,Capital Intensive,536.12,Mixed
+SBILIFE,Mar 2022,241.0,High Quality,Capital Intensive,33.01,Shareholder Returns
+SBILIFE,Mar 2023,-1547.0,High Quality,Capital Intensive,-1268.03,Shareholder Returns
+SBILIFE,Mar 2024,-2099.0,High Quality,Capital Intensive,-853.25,Shareholder Returns
+SBIN,Mar 2013,22061.0,High Quality,Asset Light,-430.54,Shareholder Returns
+SBIN,Mar 2014,18351.0,High Quality,Asset Light,-125.57,Mixed
+SBIN,Mar 2015,22873.0,High Quality,Asset Light,-104.54,Shareholder Returns
+SBIN,Mar 2016,11730.0,High Quality,Asset Light,-36.2,Mixed
+SBIN,Mar 2017,72834.0,Accrual Risk,Asset Light,-113.21,Reinvestor
+SBIN,Mar 2018,-83455.0,High Quality,Moderate,96.26,Distress Signal
+SBIN,Mar 2019,29776.0,High Quality,Asset Light,-43.37,Cash Accumulator
+SBIN,Mar 2020,23374.0,High Quality,Asset Light,-36.42,Mixed
+SBIN,Mar 2021,86249.0,High Quality,Asset Light,-121.97,Mixed
+SBIN,Mar 2022,55043.0,High Quality,Asset Light,-86.59,Shareholder Returns
+SBIN,Mar 2023,-86980.0,Accrual Risk,Asset Light,200.23,Growth Funded by Debt
+SBIN,Mar 2024,18156.0,Accrual Risk,Asset Light,-30.11,Reinvestor
+SHREECEM,Jun 2013,990.0,High Quality,Moderate,63.42,Shareholder Returns
+SHREECEM,Jun 2014,167.0,High Quality,Capital Intensive,12.01,Shareholder Returns
+SHREECEM,Jun 2015,249.0,High Quality,Capital Intensive,18.53,Shareholder Returns
+SHREECEM,Mar 2016,301.0,Accrual Risk,Capital Intensive,,Reinvestor
+SHREECEM,Mar 2017,154.0,High Quality,Capital Intensive,6.13,Shareholder Returns
+SHREECEM,Mar 2018,-1716.0,High Quality,Capital Intensive,-69.39,Mixed
+SHREECEM,Mar 2019,1360.0,High Quality,Moderate,48.62,Shareholder Returns
+SHREECEM,Mar 2020,-1617.0,High Quality,Capital Intensive,-42.88,Mixed
+SHREECEM,Mar 2021,1603.0,High Quality,Capital Intensive,39.18,Shareholder Returns
+SHREECEM,Mar 2022,525.0,High Quality,Capital Intensive,14.15,Shareholder Returns
+SHREECEM,Mar 2023,164.0,High Quality,Capital Intensive,5.54,Shareholder Returns
+SHREECEM,Mar 2024,1929.0,High Quality,Moderate,42.7,Shareholder Returns
+SHRIRAMFIN,Mar 2013,-8400.0,Accrual Risk,Asset Light,-385.5,Growth Funded by Debt
+SHRIRAMFIN,Mar 2014,-4167.0,Accrual Risk,Asset Light,-208.45,Growth Funded by Debt
+SHRIRAMFIN,Mar 2015,-9656.0,Accrual Risk,Asset Light,-571.02,Growth Funded by Debt
+SHRIRAMFIN,Mar 2016,-5543.0,Accrual Risk,Asset Light,-303.89,Growth Funded by Debt
+SHRIRAMFIN,Mar 2017,-2679.0,Accrual Risk,Asset Light,-135.85,Growth Funded by Debt
+SHRIRAMFIN,Mar 2018,-13056.0,Accrual Risk,Asset Light,-343.13,Distress Signal
+SHRIRAMFIN,Mar 2019,-5611.0,Accrual Risk,Asset Light,-147.62,Growth Funded by Debt
+SHRIRAMFIN,Mar 2020,-2519.0,Accrual Risk,Asset Light,-70.66,Growth Funded by Debt
+SHRIRAMFIN,Mar 2021,-4264.0,Accrual Risk,Asset Light,-125.34,Growth Funded by Debt
+SHRIRAMFIN,Mar 2022,-8893.0,Accrual Risk,Asset Light,-242.58,Growth Funded by Debt
+SHRIRAMFIN,Mar 2023,-12549.0,Accrual Risk,Capital Intensive,-142.62,Distress Signal
+SHRIRAMFIN,Mar 2024,-31359.0,Accrual Risk,Asset Light,-298.0,Growth Funded by Debt
+SIEMENS,Sep 2011,267.0,Accrual Risk,Asset Light,22.8,Liquidating Assets
+SIEMENS,Sep 2014,738.0,High Quality,Asset Light,620.17,Liquidating Assets
+SIEMENS,Sep 2015,1220.0,Accrual Risk,Moderate,122.24,Liquidating Assets
+SIEMENS,Sep 2016,750.0,Accrual Risk,Asset Light,73.46,Liquidating Assets
+SIEMENS,Sep 2017,1894.0,Moderate,Capital Intensive,179.36,Liquidating Assets
+SIEMENS,Sep 2018,-74.0,Accrual Risk,Asset Light,-5.58,Reinvestor
+SIEMENS,Sep 2019,138.0,High Quality,Capital Intensive,9.26,Shareholder Returns
+SIEMENS,Sep 2020,1591.0,Moderate,Capital Intensive,158.62,Liquidating Assets
+SIEMENS,Sep 2021,-967.0,High Quality,Capital Intensive,-66.6,Shareholder Returns
+SIEMENS,Sep 2022,944.0,Moderate,Asset Light,50.75,Reinvestor
+SIEMENS,Sep 2023,641.0,Moderate,Moderate,25.77,Reinvestor
+SIEMENS,Sep 2024,1168.0,Moderate,Asset Light,37.63,Reinvestor
+SUNPHARMA,Mar 2013,982.0,Moderate,Capital Intensive,20.53,Reinvestor
+SUNPHARMA,Mar 2014,1783.0,High Quality,Capital Intensive,25.46,Mixed
+SUNPHARMA,Mar 2015,4114.0,High Quality,Moderate,52.12,Shareholder Returns
+SUNPHARMA,Mar 2016,2737.0,High Quality,Capital Intensive,33.48,Shareholder Returns
+SUNPHARMA,Mar 2017,2896.0,Moderate,Capital Intensive,28.67,Reinvestor
+SUNPHARMA,Mar 2018,803.0,High Quality,Capital Intensive,14.26,Shareholder Returns
+SUNPHARMA,Mar 2019,1886.0,Moderate,Asset Light,29.58,Reinvestor
+SUNPHARMA,Mar 2020,4330.0,High Quality,Moderate,62.01,Shareholder Returns
+SUNPHARMA,Mar 2021,6577.0,High Quality,Asset Light,77.65,Liquidating Assets
+SUNPHARMA,Mar 2022,3429.0,High Quality,Capital Intensive,33.43,Shareholder Returns
+SUNPHARMA,Mar 2023,-2261.0,Moderate,Capital Intensive,-19.41,Mixed
+SUNPHARMA,Mar 2024,11372.0,High Quality,Asset Light,87.36,Shareholder Returns
+TATACONSUM,Mar 2013,197.0,Accrual Risk,Asset Light,25.58,Cash Accumulator
+TATACONSUM,Mar 2014,421.0,Moderate,Asset Light,55.98,Reinvestor
+TATACONSUM,Mar 2015,211.0,High Quality,Asset Light,26.64,Shareholder Returns
+TATACONSUM,Mar 2016,261.0,Accrual Risk,Asset Light,71.31,Liquidating Assets
+TATACONSUM,Mar 2017,886.0,High Quality,Asset Light,112.01,Liquidating Assets
+TATACONSUM,Mar 2018,325.0,Moderate,Asset Light,38.74,Reinvestor
+TATACONSUM,Mar 2019,263.0,Accrual Risk,Asset Light,33.46,Liquidating Assets
+TATACONSUM,Mar 2020,460.0,High Quality,Moderate,35.6,Shareholder Returns
+TATACONSUM,Mar 2021,1310.0,High Quality,Asset Light,84.84,Shareholder Returns
+TATACONSUM,Mar 2022,199.0,High Quality,Capital Intensive,11.58,Shareholder Returns
+TATACONSUM,Mar 2023,627.0,High Quality,Moderate,33.78,Shareholder Returns
+TATACONSUM,Mar 2024,26.0,High Quality,Capital Intensive,1.14,Mixed
+TATAMOTORS,Mar 2013,-806.0,High Quality,Capital Intensive,-3.28,Shareholder Returns
+TATAMOTORS,Mar 2014,8160.0,High Quality,Capital Intensive,23.41,Shareholder Returns
+TATAMOTORS,Mar 2015,-701.0,High Quality,Capital Intensive,-1.79,Mixed
+TATAMOTORS,Mar 2016,1206.0,High Quality,Capital Intensive,3.14,Shareholder Returns
+TATAMOTORS,Mar 2017,-9372.0,High Quality,Capital Intensive,-31.67,Mixed
+TATAMOTORS,Mar 2018,-1282.0,High Quality,Capital Intensive,-4.08,Mixed
+TATAMOTORS,Mar 2019,-1987.0,Accrual Risk,Moderate,-8.06,Mixed
+TATAMOTORS,Mar 2020,-6482.0,Accrual Risk,Capital Intensive,-36.04,Mixed
+TATAMOTORS,Mar 2021,3329.0,Accrual Risk,Capital Intensive,10.31,Mixed
+TATAMOTORS,Mar 2022,9839.0,Accrual Risk,Asset Light,39.8,Reinvestor
+TATAMOTORS,Mar 2023,19971.0,High Quality,Moderate,62.77,Shareholder Returns
+TATAMOTORS,Mar 2024,45133.0,High Quality,Moderate,75.81,Shareholder Returns
+TATAPOWER,Mar 2013,-740.0,High Quality,Capital Intensive,-13.23,Shareholder Returns
+TATAPOWER,Mar 2014,2874.0,High Quality,Capital Intensive,41.56,Shareholder Returns
+TATAPOWER,Mar 2015,2116.0,High Quality,Capital Intensive,33.58,Shareholder Returns
+TATAPOWER,Mar 2016,5610.0,High Quality,Moderate,266.51,Shareholder Returns
+TATAPOWER,Mar 2017,-359.0,High Quality,Capital Intensive,-6.56,Mixed
+TATAPOWER,Mar 2018,4852.0,High Quality,Moderate,211.42,Shareholder Returns
+TATAPOWER,Mar 2019,4302.0,High Quality,Asset Light,140.13,Shareholder Returns
+TATAPOWER,Mar 2020,6882.0,High Quality,Asset Light,101.13,Shareholder Returns
+TATAPOWER,Mar 2021,9338.0,High Quality,Moderate,134.92,Liquidating Assets
+TATAPOWER,Mar 2022,443.0,High Quality,Capital Intensive,6.3,Shareholder Returns
+TATAPOWER,Mar 2023,-97.0,High Quality,Capital Intensive,-1.26,Mixed
+TATAPOWER,Mar 2024,3569.0,High Quality,Capital Intensive,33.25,Shareholder Returns
+TATASTEEL,Mar 2013,936.0,Accrual Risk,Capital Intensive,23.61,Reinvestor
+TATASTEEL,Mar 2014,-2232.0,High Quality,Capital Intensive,-13.79,Mixed
+TATASTEEL,Mar 2015,2859.0,Accrual Risk,Moderate,83.87,Reinvestor
+TATASTEEL,Mar 2016,2661.0,Accrual Risk,Capital Intensive,-425.76,Reinvestor
+TATASTEEL,Mar 2017,1334.0,Accrual Risk,Capital Intensive,10.15,Reinvestor
+TATASTEEL,Mar 2018,-3707.0,Accrual Risk,Capital Intensive,-17.3,Mixed
+TATASTEEL,Mar 2019,-3840.0,High Quality,Capital Intensive,-13.1,Shareholder Returns
+TATASTEEL,Mar 2020,6157.0,High Quality,Capital Intensive,35.26,Shareholder Returns
+TATASTEEL,Mar 2021,34890.0,High Quality,Moderate,114.38,Shareholder Returns
+TATASTEEL,Mar 2022,33476.0,High Quality,Moderate,52.73,Shareholder Returns
+TATASTEEL,Mar 2023,3504.0,High Quality,Moderate,10.85,Shareholder Returns
+TATASTEEL,Mar 2024,6048.0,Accrual Risk,Moderate,27.18,Reinvestor
+TCS,Mar 2013,5577.0,Moderate,Capital Intensive,30.91,Reinvestor
+TCS,Mar 2014,5299.0,Moderate,Capital Intensive,21.07,Reinvestor
+TCS,Mar 2015,17562.0,Moderate,Asset Light,71.73,Reinvestor
+TCS,Mar 2016,14099.0,Moderate,Moderate,45.96,Reinvestor
+TCS,Mar 2017,8328.0,Moderate,Capital Intensive,25.77,Reinvestor
+TCS,Mar 2018,28171.0,Moderate,Asset Light,86.64,Liquidating Assets
+TCS,Mar 2019,30238.0,Moderate,Asset Light,76.54,Liquidating Assets
+TCS,Mar 2020,41337.0,Moderate,Moderate,98.17,Liquidating Assets
+TCS,Mar 2021,30846.0,High Quality,Moderate,66.27,Shareholder Returns
+TCS,Mar 2022,39211.0,High Quality,Asset Light,73.9,Shareholder Returns
+TCS,Mar 2023,42513.0,Moderate,Asset Light,71.74,Liquidating Assets
+TCS,Mar 2024,50429.0,Moderate,Asset Light,78.43,Liquidating Assets
+TECHM,Mar 2013,233.0,Moderate,Capital Intensive,16.39,Mixed
+TECHM,Mar 2014,1887.0,Moderate,Asset Light,45.23,Liquidating Assets
+TECHM,Mar 2015,583.0,Moderate,Capital Intensive,13.9,Reinvestor
+TECHM,Mar 2016,1684.0,High Quality,Moderate,39.53,Shareholder Returns
+TECHM,Mar 2017,1178.0,High Quality,Capital Intensive,28.15,Shareholder Returns
+TECHM,Mar 2018,235.0,Moderate,Capital Intensive,4.99,Reinvestor
+TECHM,Mar 2019,2328.0,High Quality,Moderate,37.12,Shareholder Returns
+TECHM,Mar 2020,5439.0,High Quality,Asset Light,98.84,Liquidating Assets
+TECHM,Mar 2021,2661.0,High Quality,Capital Intensive,39.16,Shareholder Returns
+TECHM,Mar 2022,5765.0,Moderate,Asset Light,71.88,Liquidating Assets
+TECHM,Mar 2023,5346.0,High Quality,Asset Light,68.87,Shareholder Returns
+TECHM,Mar 2024,5058.0,High Quality,Asset Light,112.25,Shareholder Returns
+TITAN,Mar 2013,411.0,Moderate,Asset Light,40.53,Reinvestor
+TITAN,Mar 2014,-826.0,Accrual Risk,Asset Light,-78.89,Growth Funded by Debt
+TITAN,Mar 2015,385.0,Moderate,Asset Light,33.39,Reinvestor
+TITAN,Mar 2016,417.0,Moderate,Asset Light,44.41,Reinvestor
+TITAN,Mar 2017,759.0,High Quality,Moderate,65.21,Shareholder Returns
+TITAN,Mar 2018,47.0,Accrual Risk,Asset Light,2.86,Other
+TITAN,Mar 2019,446.0,Moderate,Moderate,22.37,Reinvestor
+TITAN,Mar 2020,-113.0,Accrual Risk,Asset Light,-4.59,Other
+TITAN,Mar 2021,1340.0,High Quality,Capital Intensive,77.68,Shareholder Returns
+TITAN,Mar 2022,441.0,Accrual Risk,Moderate,13.19,Other
+TITAN,Mar 2023,-444.0,Accrual Risk,Moderate,-9.09,Mixed
+TITAN,Mar 2024,1506.0,Accrual Risk,Asset Light,28.46,Reinvestor
+TORNTPHARM,Mar 2013,-94.0,Accrual Risk,Moderate,-13.49,Mixed
+TORNTPHARM,Mar 2014,181.0,Moderate,Capital Intensive,18.95,Mixed
+TORNTPHARM,Mar 2015,-1303.0,High Quality,Capital Intensive,-127.75,Mixed
+TORNTPHARM,Mar 2016,1873.0,High Quality,Capital Intensive,68.53,Shareholder Returns
+TORNTPHARM,Mar 2017,211.0,High Quality,Capital Intensive,15.32,Shareholder Returns
+TORNTPHARM,Mar 2018,-3783.0,High Quality,Capital Intensive,-280.43,Mixed
+TORNTPHARM,Mar 2019,1552.0,High Quality,Moderate,78.27,Shareholder Returns
+TORNTPHARM,Mar 2020,1622.0,High Quality,Asset Light,74.75,Liquidating Assets
+TORNTPHARM,Mar 2021,1561.0,High Quality,Moderate,62.94,Shareholder Returns
+TORNTPHARM,Mar 2022,1607.0,High Quality,Asset Light,66.1,Shareholder Returns
+TORNTPHARM,Mar 2023,33.0,High Quality,Capital Intensive,1.16,Mixed
+TORNTPHARM,Mar 2024,3106.0,High Quality,Asset Light,92.22,Shareholder Returns
+TRENT,Mar 2013,-245.0,Accrual Risk,Capital Intensive,-4900.0,Mixed
+TRENT,Mar 2014,-94.0,High Quality,Asset Light,940.0,Pre-Revenue
+TRENT,Mar 2015,-316.0,Accrual Risk,Capital Intensive,-359.09,Growth Funded by Debt
+TRENT,Mar 2016,11.0,High Quality,Moderate,12.22,Shareholder Returns
+TRENT,Mar 2017,58.0,High Quality,Asset Light,43.28,Shareholder Returns
+TRENT,Mar 2018,73.0,Moderate,Asset Light,35.1,Reinvestor
+TRENT,Mar 2019,-16.0,Accrual Risk,Asset Light,-6.64,Mixed
+TRENT,Mar 2020,-448.0,High Quality,Capital Intensive,-84.69,Mixed
+TRENT,Mar 2021,303.0,Accrual Risk,Asset Light,265.79,Liquidating Assets
+TRENT,Mar 2022,114.0,High Quality,Asset Light,19.16,Liquidating Assets
+TRENT,Mar 2023,492.0,High Quality,Asset Light,44.17,Shareholder Returns
+TRENT,Mar 2024,841.0,Moderate,Moderate,42.67,Reinvestor
+TVSMOTOR,Mar 2013,344.0,High Quality,Asset Light,78.54,Shareholder Returns
+TVSMOTOR,Mar 2014,235.0,High Quality,Asset Light,47.76,Shareholder Returns
+TVSMOTOR,Mar 2015,-332.0,Accrual Risk,Moderate,-54.88,Mixed
+TVSMOTOR,Mar 2016,331.0,High Quality,Moderate,40.42,Shareholder Returns
+TVSMOTOR,Mar 2017,-20.0,High Quality,Moderate,-2.3,Shareholder Returns
+TVSMOTOR,Mar 2018,-741.0,Moderate,Moderate,-47.17,Mixed
+TVSMOTOR,Mar 2019,-2022.0,Accrual Risk,Moderate,-93.48,Growth Funded by Debt
+TVSMOTOR,Mar 2020,-717.0,Moderate,Moderate,-31.67,Mixed
+TVSMOTOR,Mar 2021,269.0,High Quality,Moderate,12.05,Mixed
+TVSMOTOR,Mar 2022,-3046.0,Accrual Risk,Moderate,-110.56,Growth Funded by Debt
+TVSMOTOR,Mar 2023,-5713.0,Accrual Risk,Moderate,-141.87,Growth Funded by Debt
+TVSMOTOR,Mar 2024,-2254.0,Accrual Risk,Asset Light,-40.98,Growth Funded by Debt
+ULTRACEMCO,Mar 2013,-744.0,High Quality,Capital Intensive,-15.38,Mixed
+ULTRACEMCO,Mar 2014,1113.0,High Quality,Capital Intensive,27.58,Shareholder Returns
+ULTRACEMCO,Mar 2015,2046.0,High Quality,Capital Intensive,46.24,Shareholder Returns
+ULTRACEMCO,Mar 2016,853.0,High Quality,Capital Intensive,17.4,Shareholder Returns
+ULTRACEMCO,Mar 2017,2504.0,High Quality,Capital Intensive,48.04,Shareholder Returns
+ULTRACEMCO,Mar 2018,5754.0,High Quality,Moderate,93.64,Liquidating Assets
+ULTRACEMCO,Mar 2019,7121.0,High Quality,Asset Light,96.92,Liquidating Assets
+ULTRACEMCO,Mar 2020,4780.0,High Quality,Capital Intensive,51.7,Shareholder Returns
+ULTRACEMCO,Mar 2021,3644.0,High Quality,Capital Intensive,31.5,Shareholder Returns
+ULTRACEMCO,Mar 2022,11540.0,High Quality,Moderate,100.23,Liquidating Assets
+ULTRACEMCO,Mar 2023,1881.0,High Quality,Capital Intensive,17.71,Shareholder Returns
+ULTRACEMCO,Mar 2024,2109.0,High Quality,Capital Intensive,16.26,Shareholder Returns
+UNIONBANK,Mar 2013,-4588.0,Accrual Risk,Asset Light,-1411.69,Growth Funded by Debt
+UNIONBANK,Mar 2014,2207.0,High Quality,Asset Light,-244.68,Mixed
+UNIONBANK,Mar 2015,-3885.0,Accrual Risk,Asset Light,399.28,Growth Funded by Debt
+UNIONBANK,Mar 2016,72.0,Accrual Risk,Asset Light,-3.73,Reinvestor
+UNIONBANK,Mar 2017,-6904.0,Accrual Risk,Asset Light,142.94,Growth Funded by Debt
+UNIONBANK,Mar 2018,5782.0,Accrual Risk,Asset Light,-49.42,Mixed
+UNIONBANK,Mar 2019,-8075.0,High Quality,Asset Light,93.88,Growth Funded by Debt
+UNIONBANK,Mar 2020,-81.0,Accrual Risk,Asset Light,0.85,Growth Funded by Debt
+UNIONBANK,Mar 2021,19926.0,High Quality,Asset Light,-179.98,Shareholder Returns
+UNIONBANK,Mar 2022,35781.0,High Quality,Asset Light,-849.3,Shareholder Returns
+UNIONBANK,Mar 2023,3495.0,Moderate,Moderate,-115.58,Reinvestor
+UNIONBANK,Mar 2024,18536.0,High Quality,Asset Light,403.83,Shareholder Returns
+UNITDSPR,Mar 2013,848.0,Accrual Risk,Capital Intensive,77.73,Reinvestor
+UNITDSPR,Mar 2014,-804.0,Accrual Risk,Asset Light,23.87,Growth Funded by Debt
+UNITDSPR,Mar 2015,3659.0,Accrual Risk,Capital Intensive,-999.73,Other
+UNITDSPR,Mar 2016,1016.0,High Quality,Capital Intensive,305.11,Liquidating Assets
+UNITDSPR,Mar 2017,420.0,High Quality,Asset Light,42.38,Shareholder Returns
+UNITDSPR,Mar 2018,1029.0,High Quality,Asset Light,85.11,Liquidating Assets
+UNITDSPR,Mar 2019,882.0,High Quality,Asset Light,63.27,Shareholder Returns
+UNITDSPR,Mar 2020,589.0,High Quality,Asset Light,37.54,Shareholder Returns
+UNITDSPR,Mar 2021,1719.0,High Quality,Asset Light,163.56,Shareholder Returns
+UNITDSPR,Mar 2022,664.0,High Quality,Moderate,41.63,Shareholder Returns
+UNITDSPR,Mar 2023,560.0,Moderate,Asset Light,39.52,Reinvestor
+UNITDSPR,Mar 2024,1344.0,Moderate,Asset Light,67.2,Liquidating Assets
+VBL,Dec 2012,-227.0,High Quality,Capital Intensive,-99.56,Mixed
+VBL,Dec 2013,-277.0,Accrual Risk,Capital Intensive,-95.19,Mixed
+VBL,Dec 2014,-69.0,Accrual Risk,Capital Intensive,-17.83,Mixed
+VBL,Dec 2015,255.0,High Quality,Capital Intensive,39.72,Shareholder Returns
+VBL,Dec 2016,-222.0,High Quality,Capital Intensive,-27.41,Mixed
+VBL,Dec 2017,-126.0,High Quality,Capital Intensive,-15.04,Mixed
+VBL,Dec 2018,63.0,High Quality,Capital Intensive,6.08,Shareholder Returns
+VBL,Dec 2019,-1012.0,High Quality,Capital Intensive,-69.22,Mixed
+VBL,Dec 2020,540.0,High Quality,Moderate,44.44,Shareholder Returns
+VBL,Dec 2021,223.0,High Quality,Capital Intensive,13.16,Shareholder Returns
+VBL,Dec 2022,21.0,High Quality,Capital Intensive,0.73,Shareholder Returns
+VBL,Dec 2023,-897.0,High Quality,Capital Intensive,-24.13,Mixed
+VEDL,Mar 2013,-289.0,Accrual Risk,Capital Intensive,-62.15,Mixed
+VEDL,Mar 2014,12711.0,High Quality,Moderate,64.87,Shareholder Returns
+VEDL,Mar 2015,13672.0,Accrual Risk,Moderate,61.83,Reinvestor
+VEDL,Mar 2016,12509.0,Accrual Risk,Capital Intensive,-67.69,Reinvestor
+VEDL,Mar 2017,20764.0,High Quality,Moderate,97.14,Liquidating Assets
+VEDL,Mar 2018,32846.0,High Quality,Capital Intensive,132.03,Liquidating Assets
+VEDL,Mar 2019,13160.0,High Quality,Capital Intensive,56.8,Shareholder Returns
+VEDL,Mar 2020,13375.0,Accrual Risk,Moderate,64.48,Reinvestor
+VEDL,Mar 2021,17302.0,High Quality,Moderate,63.34,Shareholder Returns
+VEDL,Mar 2022,32720.0,High Quality,Asset Light,73.0,Shareholder Returns
+VEDL,Mar 2023,32397.0,High Quality,Asset Light,94.09,Shareholder Returns
+VEDL,Mar 2024,21978.0,High Quality,Capital Intensive,62.24,Shareholder Returns
+WIPRO,Mar 2013,1858.0,High Quality,Capital Intensive,24.27,Shareholder Returns
+WIPRO,Mar 2014,6506.0,Moderate,Asset Light,67.52,Reinvestor
+WIPRO,Mar 2015,5303.0,Moderate,Moderate,51.49,Reinvestor
+WIPRO,Mar 2016,-5874.0,Moderate,Capital Intensive,-54.41,Reinvestor
+WIPRO,Mar 2017,-2493.0,High Quality,Capital Intensive,-22.02,Shareholder Returns
+WIPRO,Mar 2018,12018.0,High Quality,Moderate,115.7,Liquidating Assets
+WIPRO,Mar 2019,16697.0,High Quality,Capital Intensive,143.78,Liquidating Assets
+WIPRO,Mar 2020,13657.0,High Quality,Moderate,110.65,Liquidating Assets
+WIPRO,Mar 2021,15440.0,High Quality,Asset Light,104.53,Liquidating Assets
+WIPRO,Mar 2022,-11241.0,Moderate,Capital Intensive,-67.38,Mixed
+WIPRO,Mar 2023,4891.0,High Quality,Capital Intensive,29.05,Shareholder Returns
+WIPRO,Mar 2024,18766.0,High Quality,Asset Light,112.02,Liquidating Assets
+ZOMATO,Mar 2020,-404.0,Moderate,Capital Intensive,17.53,Distress Signal
+ZOMATO,Mar 2021,-6263.0,High Quality,Capital Intensive,1341.11,Growth Funded by Debt
+ZOMATO,Mar 2022,-8664.0,Moderate,Capital Intensive,468.07,Growth Funded by Debt
+ZOMATO,Mar 2023,-47.0,Moderate,Capital Intensive,3.88,Other
+ZOMATO,Mar 2024,298.0,High Quality,Asset Light,693.02,Shareholder Returns
+ZYDUSLIFE,Mar 2013,-79.0,Moderate,Capital Intensive,-6.99,Mixed
+ZYDUSLIFE,Mar 2014,465.0,High Quality,Moderate,38.65,Shareholder Returns
+ZYDUSLIFE,Mar 2015,529.0,Moderate,Moderate,30.13,Reinvestor
+ZYDUSLIFE,Mar 2016,1034.0,Moderate,Capital Intensive,44.34,Reinvestor
+ZYDUSLIFE,Mar 2017,-1560.0,Moderate,Capital Intensive,-82.02,Mixed
+ZYDUSLIFE,Mar 2018,-55.0,Moderate,Capital Intensive,-1.94,Mixed
+ZYDUSLIFE,Mar 2019,-2695.0,Moderate,Capital Intensive,-90.1,Mixed
+ZYDUSLIFE,Mar 2020,1928.0,High Quality,Moderate,68.91,Shareholder Returns
+ZYDUSLIFE,Mar 2021,2457.0,High Quality,Moderate,72.46,Shareholder Returns
+ZYDUSLIFE,Mar 2022,1086.0,Accrual Risk,Moderate,32.5,Reinvestor
+ZYDUSLIFE,Mar 2023,4231.0,High Quality,Capital Intensive,109.61,Liquidating Assets
+ZYDUSLIFE,Mar 2024,1736.0,Moderate,Moderate,32.24,Reinvestor
