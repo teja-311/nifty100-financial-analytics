@@ -23,3 +23,12 @@ db/*.db
 # OS files
 .DS_Store
 Thumbs.db
+
+# VS Code temporary files
+src/tempCodeRunnerFile.py
+
+# Local testing scripts
+src/check_analysis1.py
+
+# Local test/debug scripts
+src/check_*.py
